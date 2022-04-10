@@ -2,26 +2,26 @@
 en:
   about:
     about_hashtag_html: These are public posts tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the fediverse.
-    about_mastodon_html: 'The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with Mastodon!'
+    about_mastodon_html: 'The social network of the future. Decentralized authority.  Own your data, your money, your freedom with MYID!'
     about_this: About
     active_count_after: active
     active_footnote: Monthly Active Users (MAU)
     administered_by: 'Administered by:'
     api: API
     apps: Mobile apps
-    apps_platforms: Use Mastodon from iOS, Android and other platforms
+    apps_platforms: Use MYID from iOS, Android and other platforms
     browse_directory: Browse a profile directory and filter by interests
     browse_local_posts: Browse a live stream of public posts from this server
-    browse_public_posts: Browse a live stream of public posts on Mastodon
+    browse_public_posts: Browse a live stream of public posts on MYID
     contact: Contact
     contact_missing: Not set
     contact_unavailable: N/A
     continue_to_web: Continue to web app
     discover_users: Discover users
     documentation: Documentation
-    federation_hint_html: With an account on %{instance} you'll be able to follow people on any Mastodon server and beyond.
+    federation_hint_html: With an account on MYIDverified you'll be able to follow people on any MYID server and beyond.
     get_apps: Try a mobile app
-    hosted_on: Mastodon hosted on %{domain}
+    hosted_on: MYID hosted on %{domain}
     instance_actor_flash: |
       This account is a virtual actor used to represent the server itself and not any individual user.
       It is used for federation purposes and should not be blocked unless you want to block the whole instance, in which case you should use a domain block.
@@ -30,7 +30,7 @@ en:
     logout_before_registering: You are already logged in.
     privacy_policy: Privacy policy
     rules: Server rules
-    rules_html: 'Below is a summary of rules you need to follow if you want to have an account on this server of Mastodon:'
+    rules_html: 'Below is a summary of rules you need to follow if you want to have an account on this server of MYID:'
     see_whats_happening: See what's happening
     server_stats: 'Server stats:'
     source_code: Source code
@@ -38,7 +38,7 @@ en:
       one: post
       other: posts
     status_count_before: Who published
-    tagline: Follow friends and discover new ones
+    tagline: MYIDverified
     terms: Terms of service
     unavailable_content: Moderated servers
     unavailable_content_description:
@@ -50,12 +50,12 @@ en:
       silenced_title: Limited servers
       suspended: 'No data from these servers will be processed, stored or exchanged, making any interaction or communication with users from these servers impossible:'
       suspended_title: Suspended servers
-    unavailable_content_html: Mastodon generally allows you to view content from and interact with users from any other server in the fediverse. These are the exceptions that have been made on this particular server.
+    unavailable_content_html: MYID on generally allows you to view content from and interact with users from any other server in the fediverse. These are the exceptions that have been made on this particular server.
     user_count_after:
       one: user
       other: users
     user_count_before: Home to
-    what_is_mastodon: What is Mastodon?
+    what_is_mastodon: What is MYID?
   accounts:
     choices_html: "%{name}'s choices:"
     endorsements_hint: You can endorse people you follow from the web interface, and they will show up here.
@@ -719,13 +719,13 @@ en:
         desc_html: Show a staff badge on a user page
         title: Show staff badge
       site_description:
-        desc_html: Introductory paragraph on the API. Describe what makes this Mastodon server special and anything else important. You can use HTML tags, in particular <code>&lt;a&gt;</code> and <code>&lt;em&gt;</code>.
+        desc_html: Introductory paragraph on the API. Describe what makes this MYID server special and anything else important. You can use HTML tags, in particular <code>&lt;a&gt;</code> and <code>&lt;em&gt;</code>.
         title: Server description
       site_description_extended:
         desc_html: A good place for your code of conduct, rules, guidelines and other things that set your server apart. You can use HTML tags
         title: Custom extended information
       site_short_description:
-        desc_html: Displayed in sidebar and meta tags. Describe what Mastodon is and what makes this server special in a single paragraph.
+        desc_html: Displayed in sidebar and meta tags. Describe what MYID is and what makes this server special in a single paragraph.
         title: Short server description
       site_terms:
         desc_html: You can write your own privacy policy, terms of service or other legalese. You can use HTML tags
@@ -898,8 +898,8 @@ en:
     confirmation_dialogs: Confirmation dialogs
     discovery: Discovery
     localization:
-      body: Mastodon is translated by volunteers.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYID is translated by volunteers.
+      guide_link: 
       guide_link_text: Everyone can contribute.
     sensitive_content: Sensitive content
     toot_layout: Post layout
@@ -926,8 +926,8 @@ en:
     delete_account: Delete account
     delete_account_html: If you wish to delete your account, you can <a href="%{path}">proceed here</a>. You will be asked for confirmation.
     description:
-      prefix_invited_by_user: "@%{name} invites you to join this server of Mastodon!"
-      prefix_sign_up: Sign up on Mastodon today!
+      prefix_invited_by_user: "@%{name} invites you to join this server of MYID!"
+      prefix_sign_up: Sign up on MYID today!
       suffix: With an account, you will be able to follow people, post updates and exchange messages with users from any Mastodon server and more!
     didnt_get_confirmation: Didn't receive confirmation instructions?
     dont_have_your_security_key: Don't have your security key?
@@ -1380,7 +1380,7 @@ en:
       weibo: Weibo
     current_session: Current session
     description: "%{browser} on %{platform}"
-    explanation: These are the web browsers currently logged in to your Mastodon account.
+    explanation: These are the web browsers currently logged in to your MYID account.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1532,7 +1532,7 @@ en:
       <p>Any of the information we collect from you may be used in the following ways:</p>
 
       <ul>
-        <li>To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
+        <li>To provide the core functionality of MYID. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
         <li>To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.</li>
         <li>The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.</li>
       </ul>
@@ -1597,9 +1597,9 @@ en:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: "%{instance} Terms of Service and Privacy Policy"
   themes:
-    contrast: Mastodon (High contrast)
-    default: Mastodon (Dark)
-    mastodon-light: Mastodon (Light)
+    contrast: MYID (High contrast)
+    default: MYID (Dark)
+    mastodon-light: MYID (Light)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1631,7 +1631,7 @@ en:
       subject: Your appeal from %{date} has been rejected
       title: Appeal rejected
     backup_ready:
-      explanation: You requested a full backup of your Mastodon account. It's now ready for download!
+      explanation: You requested a full backup of your MYID account. It's now ready for download!
       subject: Your archive is ready for download
       title: Archive takeout
     sign_in_token:
@@ -1681,11 +1681,11 @@ en:
       full_handle_hint: This is what you would tell your friends so they can message or follow you from another server.
       review_preferences_action: Change preferences
       review_preferences_step: Make sure to set your preferences, such as which emails you'd like to receive, or what privacy level you’d like your posts to default to. If you don’t have motion sickness, you could choose to enable GIF autoplay.
-      subject: Welcome to Mastodon
-      tip_federated_timeline: The federated timeline is a firehose view of the Mastodon network. But it only includes people your neighbours are subscribed to, so it's not complete.
+      subject: Welcome to MYID
+      tip_federated_timeline: The federated timeline is a firehose view of the MYID network. But it only includes people your neighbours are subscribed to, so it's not complete.
       tip_following: You follow your server's admin(s) by default. To find more interesting people, check the local and federated timelines.
       tip_local_timeline: The local timeline is a firehose view of people on %{instance}. These are your immediate neighbours!
-      tip_mobile_webapp: If your mobile browser offers you to add Mastodon to your homescreen, you can receive push notifications. It acts like a native app in many ways!
+      tip_mobile_webapp: If your mobile browser offers you to add MYID to your homescreen, you can receive push notifications. It acts like a native app in many ways!
       tips: Tips
       title: Welcome aboard, %{name}!
   users:
@@ -1698,7 +1698,7 @@ en:
     signed_in_as: 'Signed in as:'
     suspicious_sign_in_confirmation: You appear to not have logged in from this device before, so we're sending a security code to your e-mail address to confirm that it's you.
   verification:
-    explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your Mastodon profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'
+    explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your MYID profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'
     verification: Verification
   webauthn_credentials:
     add: Add new security key

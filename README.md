@@ -13,7 +13,7 @@
 [crowdin]: https://crowdin.com/project/mastodon
 [docker]: https://hub.docker.com/r/tootsuite/mastodon/
 
-Mastodon is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
+MYID is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On MYID, users can publish anything they want: links, pictures, text, video. All MYID servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-MYID software that implements ActivityPub)!
 
 Click below to **learn more** in a video:
 

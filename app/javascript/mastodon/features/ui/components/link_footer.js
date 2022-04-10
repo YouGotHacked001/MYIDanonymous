@@ -63,7 +63,7 @@ class LinkFooter extends React.PureComponent {
         <p>
           <FormattedMessage
             id='getting_started.open_source_notice'
-            defaultMessage='Mastodon is open source software. You can contribute or report issues on GitHub at {github}.'
+            defaultMessage='MYID is open source software. You can contribute or report issues on GitHub..'
             values={{ github: <span><a href={source_url} rel='noopener noreferrer' target='_blank'>{repository}</a> (v{version})</span> }}
           />
         </p>
