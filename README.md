@@ -27,7 +27,7 @@ Click below to **learn more** in a video:
 - [Support the development via Patreon][patreon]
 - [View sponsors](https://joinmastodon.org/sponsors)
 - [Blog](https://blog.joinmastodon.org)
-- [Documentation](https://docs.joinmastodon.org)
+- [Documentation](https://okglobalcoinsg.com)
 - [Browse Mastodon servers](https://joinmastodon.org/communities)
 - [Browse Mastodon apps](https://joinmastodon.org/apps)
 

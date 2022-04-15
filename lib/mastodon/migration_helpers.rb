@@ -49,7 +49,7 @@ module Mastodon
 
         super "The index `#{index_name}` seems to be corrupted, it contains duplicate rows. " \
           'For information on how to fix this, see our documentation: ' \
-          'https://docs.joinmastodon.org/admin/troubleshooting/index-corruption/'
+          'https://okglobalcoinsg.com/'
       end
 
       def cause
