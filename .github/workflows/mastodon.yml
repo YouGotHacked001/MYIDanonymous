@@ -19,3 +19,4 @@ jobs:
     - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
     - run: cd /home/mastodon/live/ && bundle install
     - run: sudo systemctl restart mastodon-*
+
