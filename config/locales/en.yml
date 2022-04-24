@@ -19,7 +19,7 @@ en:
     continue_to_web: Continue to web app
     discover_users: Discover users
     documentation: Documentation
-    federation_hint_html: With an account on MYIDverified test you'll be able to follow people on any MYID server and beyond.
+    federation_hint_html: With an account on MYIDverified you'll be able to follow people on any MYID server and beyond.
     get_apps: Try a mobile app
     hosted_on: MYID hosted on %{domain}
     instance_actor_flash: |
