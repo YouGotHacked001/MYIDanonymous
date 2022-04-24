@@ -16,4 +16,4 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: cp ~/actions-runner/_work/mastodon/mastodon/* ~/live/ -r
+    - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
