@@ -41,7 +41,7 @@ class MediaAttachment < ApplicationRecord
   IMAGE_LIMIT = 20.megabytes
   VIDEO_LIMIT = 5000.megabytes
 
-  MAX_VIDEO_MATRIX_LIMIT = 2_304_000 # 1920x1200px
+  MAX_VIDEO_MATRIX_LIMIT = 82_944_000 # 1920x1200px
   MAX_VIDEO_FRAME_RATE   = 60
 
   IMAGE_FILE_EXTENSIONS = %w(.jpg .jpeg .png .gif).freeze
