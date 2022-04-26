@@ -3,6 +3,7 @@
 #
 # Table name: users
 #
+#  id                        :bigint(8)        not null, primary key
 #  email                     :string           default(""), not null
 #  created_at                :datetime         not null
 #  updated_at                :datetime         not null
@@ -27,7 +28,6 @@
 #  otp_backup_codes          :string           is an Array
 #  filtered_languages        :string           default([]), not null, is an Array
 #  account_id                :bigint(8)        not null
-#  id                        :bigint(8)        not null, primary key
 #  disabled                  :boolean          default(FALSE), not null
 #  moderator                 :boolean          default(FALSE), not null
 #  invite_id                 :bigint(8)
@@ -39,7 +39,6 @@
 #  webauthn_id               :string
 #  sign_up_ip                :inet
 #  skip_sign_in_token        :boolean
-#  wallet                    :string
 #
 
 class User < ApplicationRecord

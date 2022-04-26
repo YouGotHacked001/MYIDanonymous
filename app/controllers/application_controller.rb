@@ -33,14 +33,6 @@ class ApplicationController < ActionController::Base
     service_unavailable
   end
 
-  before_action :configure_permitted_parameters, if: :devise_controller?
-
-  def configure_permitted_parameters
-    devise_parameter_sanitizer.permit(:account_update) do |u|
-      u.permit({ account_attributes: [:username], invite_request_attributes: [:text] }, :email, :password, :password_confirmation, :current_password, :wallet, :invite_code, :agreement, :website, :confirm_password)
-    end
-  end
-
   before_action :store_current_location, except: :raise_not_found, unless: :devise_controller?
   before_action :require_functional!, if: :user_signed_in?
 

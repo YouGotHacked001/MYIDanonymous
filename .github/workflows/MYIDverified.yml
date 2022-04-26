@@ -12,13 +12,13 @@ on:
 jobs:
   build:
 
-    runs-on: [self-hosted, MYIDverified]
+    runs-on: [self-hosted, MYIDverified ]
 
     steps:
     - uses: actions/checkout@v3
     - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
+    - run: cd /home/mastodon/live/ && bundle install
     - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
-    - run: cd /home/mastodon/live/ && ./bin/webpack
+    - run: cd /home/mastodon/live/ && npm run-script build:production
     - run: sudo systemctl restart mastodon-* nginx
-
-
+    - run: ls -a

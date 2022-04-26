@@ -67,7 +67,6 @@ en:
     following: Following
     instance_actor_flash: This account is a virtual actor used to represent the server itself and not any individual user. It is used for federation purposes and should not be suspended.
     joined: Joined %{date}
-    wallet: Wallet
     last_active: last active
     link_verified_on: Ownership of this link was checked on %{date}
     media: Media
@@ -929,7 +928,7 @@ en:
     description:
       prefix_invited_by_user: "@%{name} invites you to join this server of MYID!"
       prefix_sign_up: Sign up on MYID today!
-      suffix: With an account, you will be able to follow people, post updates and exchange messages with users from any MYIDverified server and more!
+      suffix: With an account, you will be able to follow people, post updates and exchange messages with users from any Mastodon server and more!
     didnt_get_confirmation: Didn't receive confirmation instructions?
     dont_have_your_security_key: Don't have your security key?
     forgot_password: Forgot your password?
@@ -1069,7 +1068,7 @@ en:
       content: We're sorry, but something went wrong on our end.
       title: This page is not correct
     '503': The page could not be served due to a temporary server failure.
-    noscript_html: To use the MYID web application, please enable JavaScript. Alternatively, try one of the <a href="%{apps_path}">native apps</a> for MYIDverified for your platform.
+    noscript_html: To use the MYID web application, please enable JavaScript. Alternatively, try one of the <a href="%{apps_path}">native apps</a> for Mastodon for your platform.
   existing_username_validator:
     not_found: could not find a local user with that username
     not_found_multiple: could not find %{usernames}
@@ -1406,7 +1405,7 @@ en:
     aliases: Account aliases
     appearance: Appearance
     authorized_apps: Authorized apps
-    back: Back to MYIDverified
+    back: Back to Mastodon
     delete: Account deletion
     development: Development
     edit_profile: Edit profile
