@@ -21,4 +21,4 @@ jobs:
     - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
     - run: cd /home/mastodon/live/ && ./bin/webpack
     - run: sudo systemctl restart mastodon-* nginx
-    - run: ls
+    - run: ls -a
