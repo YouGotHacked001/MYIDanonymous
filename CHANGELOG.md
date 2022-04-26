@@ -366,7 +366,7 @@ All notable changes to this project will be documented in this file.
 - Change log level of worker lifecycle to WARN in streaming API ([Gargron](https://github.com/mastodon/mastodon/pull/16110))
   - Since running with INFO log level in production is not always desirable, it is easy to miss when a worker is shutdown and a new one is started
 - Change the nouns "toot" and "status" to "post" in web UI ([Gargron](https://github.com/mastodon/mastodon/pull/16080), [Gargron](https://github.com/mastodon/mastodon/pull/16089))
-  - To be clear, the button still says "Toot!"
+  - To be clear, the button still says "Post"
 - Change order of dropdown menu on posts to be more intuitive in web UI ([ariasuni](https://github.com/mastodon/mastodon/pull/15647))
 - Change description of keyboard shortcuts in web UI ([ariasuni](https://github.com/mastodon/mastodon/pull/16129))
 - Change option labels on edit profile page ([Gargron](https://github.com/mastodon/mastodon/pull/16041))
