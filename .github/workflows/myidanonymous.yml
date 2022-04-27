@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v3
     - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
     - run: cd /home/mastodon/live/ && bundle install
-    - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
     - run: cd /home/mastodon/live/ && npm run-script build:production
+    - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
     - run: sudo systemctl restart mastodon-* nginx
     - run: ls -a
