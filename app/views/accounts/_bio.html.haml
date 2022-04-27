@@ -17,5 +17,10 @@
   - if account.note.present?
     .account__header__content.emojify= prerender_custom_emojis(account_bio_format(account), account.emojis)
 
+  - if account.user.wallet.present?
+    .public-account-bio__extra
+      wallet
+      = account.user.wallet
+
   .public-account-bio__extra
     = t 'accounts.joined', date: l(account.created_at, format: :month)
