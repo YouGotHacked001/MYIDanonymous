@@ -19,5 +19,6 @@ jobs:
     - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
     - run: cd /home/mastodon/live/ && bundle install
     - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
+    - run: RAILS_ENV=production bundle exec rake db:migrate
     - run: cd /home/mastodon/live/ && npm run-script build:production
     - run: sudo systemctl restart mastodon-* nginx
