@@ -51,10 +51,10 @@
           .column-4
             %h4= t 'footer.more'
             %ul
-              %li= link_to t('about.source_code'), 'https://okglobalcoinsg.com'
+              %li= link_to t('about.source_code'), Mastodon::Version.source_url
               
         .legal-xs
-          = link_to "v#{Mastodon::Version.to_s}", 'https://okglobalcoinsg.com'
+          = link_to "v#{Mastodon::Version.to_s}", Mastodon::Version.source_url
           ·
           = link_to t('about.privacy_policy'), terms_path
 
