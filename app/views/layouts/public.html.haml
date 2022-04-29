@@ -40,14 +40,14 @@
               %li= link_to t('about.documentation'), 'https://okglobalcoinsg.com'
               %li= link_to t('about.api'), 'https://okglobalcoinsg.com'
           .column-2
-            %h4= link_to t('about.what_is_mastodon'), 'https://joinmastodon.org/'
+            %h4= link_to t('about.what_is_mastodon'), 'https://okglobalcoinsg.com'
             = link_to svg_logo, root_url, class: 'brand'
           .column-3
             %h4= site_hostname
             %ul
               - unless whitelist_mode?
                 %li= link_to t('about.about_this'), about_more_path
-              %li= "v#{Mastodon::Version.to_s}"
+              
           .column-4
             %h4= t 'footer.more'
             %ul
