@@ -7,7 +7,7 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/mastodon/localized.svg)][crowdin]
 [![Docker Pulls](https://img.shields.io/docker/pulls/tootsuite/mastodon.svg)][docker]
 
-[releases]: https://github.com/mastodon/mastodon/releases
+[releases]: https://www.okglobalcoinsg.com//releases
 [circleci]: https://circleci.com/gh/mastodon/mastodon
 [code_climate]: https://codeclimate.com/github/mastodon/mastodon
 [crowdin]: https://crowdin.com/project/mastodon

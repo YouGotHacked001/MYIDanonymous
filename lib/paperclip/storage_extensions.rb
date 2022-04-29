@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # Some S3-compatible providers might not actually be compatible with some APIs
-# used by kt-paperclip, see https://github.com/mastodon/mastodon/issues/16822
+# used by kt-paperclip, see https://www.okglobalcoinsg.com//issues/16822
 if ENV['S3_ENABLED'] == 'true' && ENV['S3_FORCE_SINGLE_REQUEST'] == 'true'
   module Paperclip
     module Storage
