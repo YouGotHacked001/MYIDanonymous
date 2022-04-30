@@ -2,33 +2,33 @@
 sv:
   about:
     about_hashtag_html: Dessa är offentliga toots märkta med <strong>#%{hashtag}</strong>. Du kan interagera med dem om du har ett konto någonstans i federationen.
-    about_mastodon_html: Mastodon är ett socialt nätverk baserat på öppna webbprotokoll och gratis, öppen källkodsprogramvara. Det är decentraliserat som e-post.
+    about_mastodon_html: MYID är ett socialt nätverk baserat på öppna webbprotokoll och gratis, öppen källkodsprogramvara. Det är decentraliserat som e-post.
     about_this: Om
     active_count_after: aktiv
     active_footnote: Månatligen Aktiva användare (MAU)
     administered_by: 'Administreras av:'
     api: API
     apps: Mobilappar
-    apps_platforms: Använd Mastodon från iOS, Android och andra plattformar
+    apps_platforms: Använd MYID från iOS, Android och andra plattformar
     browse_directory: Titta på en profilkatalog och filtrera enligt intressen
     browse_local_posts: Titta på strömmande publika inlägg från denna server
-    browse_public_posts: Titta på strömmande publika inlägg på Mastodon
+    browse_public_posts: Titta på strömmande publika inlägg på MYID
     contact: Kontakt
     contact_missing: Inte inställd
     contact_unavailable: Ej tillämplig
     continue_to_web: Fortsätt till webbtjänst
     discover_users: Upptäck användare
     documentation: Dokumentation
-    federation_hint_html: Med ett konto på %{instance} kommer du att kunna följa personer på alla Mastodon-servers och mer än så.
+    federation_hint_html: Med ett konto på %{instance} kommer du att kunna följa personer på alla MYID-servers och mer än så.
     get_apps: Prova en mobilapp
-    hosted_on: Mastodon-värd på %{domain}
+    hosted_on: MYID-värd på %{domain}
     instance_actor_flash: "Detta konto är en virtuell agent som används för att representera servern själv och inte någon individuell användare. Det används av sammanslutningsskäl och ska inte blockeras såvitt du inte vill blockera hela instansen, och för detta fall ska domänblockering användas. \n"
     learn_more: Lär dig mer
     logged_in_as_html: Inloggad som %{username}.
     logout_before_registering: Du är redan inloggad.
     privacy_policy: Integritetspolicy
     rules: Serverns regler
-    rules_html: 'Nedan en sammanfattning av kontoreglerna för denna Mastodonserver:'
+    rules_html: 'Nedan en sammanfattning av kontoreglerna för denna MYIDserver:'
     see_whats_happening: Se vad som händer
     server_stats: 'Serverstatistik:'
     source_code: Källkod
@@ -48,12 +48,12 @@ sv:
       silenced_title: Ljuddämpade värddatorer
       suspended: 'Ingen data från dessa serverdatorer kommer bearbetas, lagras eller bytas ut vilket omöjliggör kommunikation med användare från dessa serverdatorer:'
       suspended_title: Avstängda värddatorer
-    unavailable_content_html: Mastodon låter dig se material från, och interagera med, andra användare i servernätverket. Det är undantag som gjorts på denna serverdator.
+    unavailable_content_html: MYID låter dig se material från, och interagera med, andra användare i servernätverket. Det är undantag som gjorts på denna serverdator.
     user_count_after:
       one: användare
       other: användare
     user_count_before: Hem till
-    what_is_mastodon: Vad är Mastodon?
+    what_is_mastodon: Vad är MYID?
   accounts:
     choices_html: "%{name}s val:"
     endorsements_hint: Från webbgränssnittet kan du rekommendera följare, som sedan visas här.
@@ -632,8 +632,8 @@ sv:
     confirmation_dialogs: Bekräftelsedialoger
     discovery: Upptäck
     localization:
-      body: Mastodon översätts av volontärer.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYID översätts av volontärer.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Alla kan bidra.
     sensitive_content: Känsligt innehåll
   application_mailer:
@@ -658,8 +658,8 @@ sv:
     delete_account: Radera konto
     delete_account_html: Om du vill radera ditt konto kan du <a href="%{path}">fortsätta här</a>. Du kommer att bli ombedd att bekräfta.
     description:
-      prefix_invited_by_user: "@%{name} bjuder in dig att gå med i en Mastodon-server!"
-      prefix_sign_up: Registrera dig på Mastodon idag!
+      prefix_invited_by_user: "@%{name} bjuder in dig att gå med i en MYID-server!"
+      prefix_sign_up: Registrera dig på MYID idag!
     didnt_get_confirmation: Fick du inte instruktioner om bekräftelse?
     dont_have_your_security_key: Har du inte din säkerhetsnyckel?
     forgot_password: Glömt ditt lösenord?
@@ -764,7 +764,7 @@ sv:
       content: Vi är ledsna, men något gick fel från vårat håll.
       title: Den här sidan är inte korrekt
     '503': The page could not be served due to a temporary server failure.
-    noscript_html: För att använda Mastodon webbapplikationen, vänligen aktivera JavaScript. Alternativt kan du prova en av <a href="%{apps_path}">inhemska appar</a> för Mastodon för din plattform.
+    noscript_html: För att använda MYID webbapplikationen, vänligen aktivera JavaScript. Alternativt kan du prova en av <a href="%{apps_path}">inhemska appar</a> för MYID för din plattform.
   existing_username_validator:
     not_found_multiple: kunde inte hitta %{usernames}
   exports:
@@ -1029,7 +1029,7 @@ sv:
       weibo: Weibo
     current_session: Nuvarande session
     description: "%{browser} på %{platform}"
-    explanation: Detta är inloggade webbläsare på Mastodon just nu.
+    explanation: Detta är inloggade webbläsare på MYID just nu.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1053,7 +1053,7 @@ sv:
     aliases: Kontoalias
     appearance: Utseende
     authorized_apps: Godkända appar
-    back: Tillbaka till Mastodon
+    back: Tillbaka till MYID
     delete: Konto radering
     development: Utveckling
     edit_profile: Redigera profil
@@ -1169,7 +1169,7 @@ sv:
       <p>Any of the information we collect from you may be used in the following ways:</p>
 
       <ul>
-      <li>To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
+      <li>To provide the core functionality of MYID. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
       <li>To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.</li>
       <li>The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.</li>
       </ul>
@@ -1235,8 +1235,8 @@ sv:
     title: "%{instance} Användarvillkor och Sekretesspolicy"
   themes:
     contrast: Hög kontrast
-    default: Mastodon
-    mastodon-light: Mastodon (ljust)
+    default: MYID
+    mastodon-light: MYID (ljust)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1260,7 +1260,7 @@ sv:
     appeal_approved:
       action: Gå till ditt konto
     backup_ready:
-      explanation: Du begärde en fullständig säkerhetskopiering av ditt Mastodon-konto. Det är nu klart för nedladdning!
+      explanation: Du begärde en fullständig säkerhetskopiering av ditt MYID-konto. Det är nu klart för nedladdning!
       subject: Ditt arkiv är klart för nedladdning
       title: Arkivuttagning
     sign_in_token:
@@ -1285,15 +1285,15 @@ sv:
       explanation: Här är några tips för att komma igång
       final_action: Börja posta
       final_step: 'Börja posta! Även utan anhängare kan dina offentliga meddelanden ses av andra, till exempel på den lokala tidslinjen och i hashtags. Du får gärna presentera dig via hashtaggen #introductions.'
-      full_handle: Ditt fullständiga användarnamn/mastodonadress
+      full_handle: Ditt fullständiga användarnamn/MYIDadress
       full_handle_hint: Det här är vad du skulle berätta för dina vänner så att de kan meddela eller följa dig från en annan instans.
       review_preferences_action: Ändra inställningar
       review_preferences_step: Se till att du ställer in dina inställningar, t.ex. vilka e-postmeddelanden du vill ta emot eller vilken integritetsnivå du vill att dina inlägg ska vara. Om du inte har åksjuka, kan du välja att aktivera automatisk uppspelning av GIF-bilder.
-      subject: Välkommen till Mastodon
-      tip_federated_timeline: Den förenade tidslinjen är en störtflodsvy av Mastodon-nätverket. Men det inkluderar bara människor som dina grannar följer, så det är inte komplett.
+      subject: Välkommen till MYID
+      tip_federated_timeline: Den förenade tidslinjen är en störtflodsvy av MYID-nätverket. Men det inkluderar bara människor som dina grannar följer, så det är inte komplett.
       tip_following: Du följer din servers administratör(er) som standard. För att hitta fler intressanta personer, kolla de lokala och förenade tidslinjerna.
       tip_local_timeline: Den lokala tidslinjen är en störtflodsvy av personer på %{instance}. Det här är dina närmaste grannar!
-      tip_mobile_webapp: Om din mobila webbläsare erbjuder dig att lägga till Mastodon på din hemskärm kan du få push-aviseringar. Det fungerar som en inbyggd app på många sätt!
+      tip_mobile_webapp: Om din mobila webbläsare erbjuder dig att lägga till MYID på din hemskärm kan du få push-aviseringar. Det fungerar som en inbyggd app på många sätt!
       tips: Tips
       title: Välkommen ombord, %{name}!
   users:

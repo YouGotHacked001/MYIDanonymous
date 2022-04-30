@@ -2,33 +2,33 @@
 vi:
   about:
     about_hashtag_html: Đây là các tút <strong>#%{hashtag}</strong> trên mạng liên hợp. Bạn có thể tương tác với chúng sau khi đăng nhập.
-    about_mastodon_html: 'Mạng xã hội của tương lai: Không quảng cáo, không bán thông tin người dùng và phi tập trung! Làm chủ dữ liệu của bạn với Mastodon!'
+    about_mastodon_html: 'Mạng xã hội của tương lai: Không quảng cáo, không bán thông tin người dùng và phi tập trung! Làm chủ dữ liệu của bạn với MYID!'
     about_this: Giới thiệu
     active_count_after: hoạt động
     active_footnote: Người dùng hoạt động hàng tháng (MAU)
     administered_by: 'Quản trị viên:'
     api: API
     apps: Apps
-    apps_platforms: Lướt Mastodon trên iOS, Android và các nền tảng khác
+    apps_platforms: Lướt MYID trên iOS, Android và các nền tảng khác
     browse_directory: Bạn bè từ khắp mọi nơi trên thế giới
     browse_local_posts: Xem những gì đang xảy ra
-    browse_public_posts: Đọc thử những tút công khai trên Mastodon
+    browse_public_posts: Đọc thử những tút công khai trên MYID
     contact: Liên lạc
     contact_missing: Chưa thiết lập
     contact_unavailable: N/A
     continue_to_web: Xem trong web
     discover_users: Thành viên
     documentation: Tài liệu
-    federation_hint_html: Đăng ký tài khoản %{instance} là bạn có thể giao tiếp với bất cứ ai trên bất kỳ máy chủ Mastodon nào và còn hơn thế nữa.
+    federation_hint_html: Đăng ký tài khoản %{instance} là bạn có thể giao tiếp với bất cứ ai trên bất kỳ máy chủ MYID nào và còn hơn thế nữa.
     get_apps: Ứng dụng di động
-    hosted_on: "%{domain} vận hành nhờ Mastodon"
+    hosted_on: "%{domain} vận hành nhờ MYID"
     instance_actor_flash: "Đây là một tài khoản ảo được sử dụng để đại diện cho máy chủ chứ không phải bất kỳ người dùng cá nhân nào. Nó được sử dụng cho mục đích liên kết và không nên chặn trừ khi bạn muốn chặn toàn bộ máy chủ. \n"
     learn_more: Tìm hiểu
     logged_in_as_html: Bạn đã đăng nhập %{username}.
     logout_before_registering: Bạn đã đăng nhập.
     privacy_policy: Chính sách bảo mật
     rules: Quy tắc máy chủ
-    rules_html: 'Bên dưới là những quy tắc của máy chủ Mastodon này, bạn phải đọc kỹ trước khi đăng ký:'
+    rules_html: 'Bên dưới là những quy tắc của máy chủ MYID này, bạn phải đọc kỹ trước khi đăng ký:'
     see_whats_happening: Dòng thời gian
     server_stats: 'Thống kê:'
     source_code: Mã nguồn
@@ -47,11 +47,11 @@ vi:
       silenced_title: Những máy chủ bị hạn chế
       suspended: 'Những máy chủ sau sẽ không được xử lý, lưu trữ hoặc trao đổi nội dung. Mọi tương tác hoặc giao tiếp với người dùng từ các máy chủ này đều bị cấm:'
       suspended_title: Những máy chủ bị vô hiệu hóa
-    unavailable_content_html: Mastodon cho phép bạn tương tác nội dung và giao tiếp với người dùng từ bất kỳ máy chủ nào khác trong mạng liên hợp. Còn máy chủ này có những ngoại lệ riêng.
+    unavailable_content_html: MYID cho phép bạn tương tác nội dung và giao tiếp với người dùng từ bất kỳ máy chủ nào khác trong mạng liên hợp. Còn máy chủ này có những ngoại lệ riêng.
     user_count_after:
       other: người dùng
     user_count_before: Nhà của
-    what_is_mastodon: Mastodon
+    what_is_mastodon: MYID
   accounts:
     choices_html: "%{name} tôn vinh:"
     endorsements_hint: Bạn có thể tôn vinh những người bạn theo dõi và họ sẽ hiển thị ở giao diện web.
@@ -666,7 +666,7 @@ vi:
         desc_html: Hiển thị trên trang chủ. Kích cỡ tối thiểu 600x100px. Mặc định dùng hình thu nhỏ của máy chủ
         title: Hình ảnh giới thiệu
       mascot:
-        desc_html: Hiển thị trên nhiều trang. Kích cỡ tối thiểu 293 × 205px. Mặc định dùng linh vật Mastodon
+        desc_html: Hiển thị trên nhiều trang. Kích cỡ tối thiểu 293 × 205px. Mặc định dùng linh vật MYID
         title: Logo máy chủ
       peers_api_enabled:
         desc_html: Tên miền mà máy chủ này đã kết giao trong mạng liên hợp
@@ -703,13 +703,13 @@ vi:
         desc_html: Hiện huy hiệu đội ngũ trên trang người dùng
         title: Hiện huy hiệu đội ngũ
       site_description:
-        desc_html: Nội dung giới thiệu về máy chủ. Mô tả những gì làm cho máy chủ Mastodon này đặc biệt và bất cứ điều gì quan trọng khác. Bạn có thể dùng các thẻ HTML, đặc biệt là <code>&lt;a&gt;</code> và <code>&lt;em&gt;</code>.
+        desc_html: Nội dung giới thiệu về máy chủ. Mô tả những gì làm cho máy chủ MYID này đặc biệt và bất cứ điều gì quan trọng khác. Bạn có thể dùng các thẻ HTML, đặc biệt là <code>&lt;a&gt;</code> và <code>&lt;em&gt;</code>.
         title: Mô tả máy chủ
       site_description_extended:
         desc_html: Bạn có thể tạo thêm các mục như quy định chung, hướng dẫn và những thứ khác liên quan tới máy chủ của bạn. Dùng thẻ HTML
         title: Thông tin bổ sung
       site_short_description:
-        desc_html: Hiển thị trong thanh bên và thẻ meta. Mô tả Mastodon là gì và điều gì làm cho máy chủ này trở nên đặc biệt trong một đoạn văn duy nhất.
+        desc_html: Hiển thị trong thanh bên và thẻ meta. Mô tả MYID là gì và điều gì làm cho máy chủ này trở nên đặc biệt trong một đoạn văn duy nhất.
         title: Mô tả máy chủ ngắn
       site_terms:
         desc_html: Bạn có thể viết điều khoản dịch vụ, quyền riêng tư hoặc các vấn đề pháp lý khác. Dùng thẻ HTML
@@ -879,7 +879,7 @@ vi:
     confirmation_dialogs: Hộp thoại xác nhận
     discovery: Khám phá
     localization:
-      body: Mastodon được dịch bởi tình nguyện viên.
+      body: MYID được dịch bởi tình nguyện viên.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Ai cũng có thể đóng góp.
     sensitive_content: Nội dung nhạy cảm
@@ -907,9 +907,9 @@ vi:
     delete_account: Xóa tài khoản
     delete_account_html: Nếu bạn muốn xóa tài khoản của mình, hãy <a href="%{path}">yêu cầu tại đây</a>. Bạn sẽ được yêu cầu xác nhận.
     description:
-      prefix_invited_by_user: "@%{name} mời bạn tham gia máy chủ Mastodon này!"
-      prefix_sign_up: Tham gia Mastodon ngay hôm nay!
-      suffix: Với tài khoản, bạn sẽ có thể theo dõi mọi người, đăng tút và nhắn tin với người dùng từ bất kỳ máy chủ Mastodon khác!
+      prefix_invited_by_user: "@%{name} mời bạn tham gia máy chủ MYID này!"
+      prefix_sign_up: Tham gia MYID ngay hôm nay!
+      suffix: Với tài khoản, bạn sẽ có thể theo dõi mọi người, đăng tút và nhắn tin với người dùng từ bất kỳ máy chủ MYID khác!
     didnt_get_confirmation: Gửi lại email xác thực?
     dont_have_your_security_key: Bạn có khóa bảo mật chưa?
     forgot_password: Quên mật khẩu
@@ -955,7 +955,7 @@ vi:
     post_follow:
       close: Bạn có thể đóng cửa sổ này rồi.
       return: Xem trang cá nhân
-      web: Mở trong Mastodon
+      web: Mở trong MYID
     title: Theo dõi %{acct}
   challenge:
     confirm: Tiếp tục
@@ -1049,7 +1049,7 @@ vi:
       content: Chúng tôi xin lỗi, nhưng đã xảy ra sự cố.
       title: Múi giờ trên thiết bị không đúng
     '503': Trang không thể hiển thị do lỗi máy chủ tạm thời.
-    noscript_html: Để vào Mastodon bản web, vui lòng bật JavaScript. Ngoài ra, hãy thử dùng một <a href="%{apps_path}">ứng dụng lướt Mastodon</a> cho thiết bị của bạn.
+    noscript_html: Để vào MYID bản web, vui lòng bật JavaScript. Ngoài ra, hãy thử dùng một <a href="%{apps_path}">ứng dụng lướt MYID</a> cho thiết bị của bạn.
   existing_username_validator:
     not_found: không có tên người dùng này trên máy chủ
     not_found_multiple: không tìm thấy %{usernames}
@@ -1310,7 +1310,7 @@ vi:
     remove_selected_follows: Ngưng theo dõi những người đã chọn
     status: Trạng thái tài khoản
   remote_follow:
-    acct: Nhập địa chỉ Mastodon của bạn (tên@máy chủ)
+    acct: Nhập địa chỉ MYID của bạn (tên@máy chủ)
     missing_resource: Không tìm thấy URL chuyển hướng cho tài khoản của bạn
     no_account_html: Nếu chưa có tài khoản, hãy <a href='%{sign_up_path}' target='_blank'>đăng ký</a>
     proceed: Theo dõi
@@ -1356,7 +1356,7 @@ vi:
       weibo: Weibo
     current_session: Phiên hiện tại
     description: "%{browser} trên %{platform}"
-    explanation: Đây là các trình duyệt web đã từng đăng nhập vào tài khoản Mastodon của bạn.
+    explanation: Đây là các trình duyệt web đã từng đăng nhập vào tài khoản MYID của bạn.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1381,7 +1381,7 @@ vi:
     aliases: Kết nối tài khoản
     appearance: Giao diện
     authorized_apps: App đã dùng
-    back: Quay lại Mastodon
+    back: Quay lại MYID
     delete: Xóa tài khoản
     development: Lập trình
     edit_profile: Trang cá nhân
@@ -1491,13 +1491,13 @@ vi:
       <ul>
       <li><em>Thông tin tài khoản cơ bản</em>: Nếu bạn đăng ký trên máy chủ này, bạn phải cung cấp tên người dùng, địa chỉ email và mật khẩu. Bạn cũng có thể tùy chọn bổ sung tên hiển thị, tiểu sử, ảnh đại diện, ảnh bìa. Tên người dùng, tên hiển thị, tiểu sử, ảnh hồ sơ và ảnh bìa luôn được hiển thị công khai.</li>
       <li><em>Tút, lượt theo dõi và nội dung công khai khác</em>: Danh sách những người bạn theo dõi được liệt kê công khai, cũng tương tự như danh sách những người theo dõi bạn. Khi bạn đăng tút, ngày giờ và ứng dụng sử dụng được lưu trữ. Tút có thể chứa tệp đính kèm hình ảnh và video. Tút công khai và tút mở sẽ hiển thị công khai. Khi bạn đăng một tút trên trang cá nhân của bạn, đó là nội dung công khai. Tút của bạn sẽ gửi đến những người theo dõi của bạn, đồng nghĩa với việc sẽ có các bản sao được lưu trữ ở máy chủ của họ. Khi bạn xóa bài viết, bản sao từ những người theo dõi của bạn cũng bị xóa theo. Hành động chia sẻ hoặc thích một tút luôn luôn là công khai.</li>
-      <li><em>Tin nhắn và tút dành cho người theo dõi</em>: Toàn bộ tút được lưu trữ và xử lý trên máy chủ. Các tút dành cho người theo dõi được gửi đến những người theo dõi và những người được gắn thẻ trong tút. Còn các tin nhắn chỉ được gửi đến cho người nhận. Điều đó có nghĩa là chúng được gửi đến các máy chủ khác nhau và có các bản sao được lưu trữ ở đó. Chúng tôi đề nghị chỉ cho những người được ủy quyền truy cập vào đó, nhưng không phải máy chủ nào cũng làm như vậy. Do đó, điều quan trọng là phải xem xét kỹ máy chủ của người theo dõi của bạn. Bạn có thể thiết lập tự mình phê duyệt và từ chối người theo dõi mới trong cài đặt. <em>Xin lưu ý rằng quản trị viên máy chủ của bạn và bất kỳ máy chủ của người nhận nào cũng có thể xem các tin nhắn</em>. Người nhận tin nhắn có thể chụp màn hình, sao chép hoặc chia sẻ lại chúng. <em>Không nên chia sẻ bất kỳ thông tin rủi ro nào trên Mastodon.</em></li>
+      <li><em>Tin nhắn và tút dành cho người theo dõi</em>: Toàn bộ tút được lưu trữ và xử lý trên máy chủ. Các tút dành cho người theo dõi được gửi đến những người theo dõi và những người được gắn thẻ trong tút. Còn các tin nhắn chỉ được gửi đến cho người nhận. Điều đó có nghĩa là chúng được gửi đến các máy chủ khác nhau và có các bản sao được lưu trữ ở đó. Chúng tôi đề nghị chỉ cho những người được ủy quyền truy cập vào đó, nhưng không phải máy chủ nào cũng làm như vậy. Do đó, điều quan trọng là phải xem xét kỹ máy chủ của người theo dõi của bạn. Bạn có thể thiết lập tự mình phê duyệt và từ chối người theo dõi mới trong cài đặt. <em>Xin lưu ý rằng quản trị viên máy chủ của bạn và bất kỳ máy chủ của người nhận nào cũng có thể xem các tin nhắn</em>. Người nhận tin nhắn có thể chụp màn hình, sao chép hoặc chia sẻ lại chúng. <em>Không nên chia sẻ bất kỳ thông tin rủi ro nào trên MYID.</em></li>
       <li> <em>Địa chỉ IP và siêu dữ liệu khác</em>: Khi bạn đăng nhập, chúng tôi ghi nhớ địa chỉ IP đăng nhập cũng như tên trình duyệt của bạn. Tất cả các phiên đăng nhập sẽ để bạn xem xét và hủy bỏ trong phần cài đặt. Địa chỉ IP sử dụng được lưu trữ tối đa 12 tháng. Chúng tôi cũng có thể giữ lại nhật ký máy chủ bao gồm địa chỉ IP của những lượt đăng ký tài khoản trên máy chủ của chúng tôi. </li>
       </ul><hr class="spacer" />
       <h3 id="use"> Chúng tôi sử dụng thông tin của bạn để làm gì? </h3>
       <p> Bất kỳ thông tin nào chúng tôi thu thập từ bạn là: </p>
       <ul>
-      <li>Để cung cấp các chức năng cốt lõi của Mastodon. Sau khi đăng nhập, bạn mới có thể tương tác với nội dung của người khác và đăng nội dung của riêng bạn. Ví dụ: bạn có thể theo dõi người khác để xem các tút của họ trong bảng tin của bạn.</li>
+      <li>Để cung cấp các chức năng cốt lõi của MYID. Sau khi đăng nhập, bạn mới có thể tương tác với nội dung của người khác và đăng nội dung của riêng bạn. Ví dụ: bạn có thể theo dõi người khác để xem các tút của họ trong bảng tin của bạn.</li>
       <li>Để hỗ trợ kiểm duyệt. Ví dụ so sánh địa chỉ IP của bạn với các địa chỉ đã biết khác để xác định hacker hoặc spammer.</li>
       <li>Địa chỉ email bạn cung cấp chỉ được sử dụng để gửi các thông báo quan trọng, trả lời các câu hỏi cũng như yêu cầu khác từ chính bạn.</li>
       </ul>
@@ -1519,7 +1519,7 @@ vi:
       <p> Chúng tôi sử dụng cookie để hiểu và lưu các tùy chọn của bạn cho các lần truy cập trong tiếp theo.</p>
       <hr class="spacer" />
       <h3 id="disclose">Chúng tôi có tiết lộ bất cứ thông tin nào ra ngoài không?</h3>
-      <p>Chúng tôi không bán, trao đổi hoặc chuyển nhượng thông tin nhận dạng cá nhân của bạn cho bên thứ ba. Trừ khi bên thứ ba đó đang hỗ trợ chúng tôi điều hành Mastodon, tiến hành kinh doanh hoặc phục vụ bạn, miễn là các bên đó đồng ý giữ bí mật thông tin này. Chúng tôi cũng có thể tiết lộ thông tin của bạn nếu việc công bố là để tuân thủ luật pháp, thực thi quy tắc máy chủ của chúng tôi hoặc bảo vệ quyền, tài sản hợp pháp hoặc sự an toàn của chúng tôi hoặc bất kỳ ai.</p>
+      <p>Chúng tôi không bán, trao đổi hoặc chuyển nhượng thông tin nhận dạng cá nhân của bạn cho bên thứ ba. Trừ khi bên thứ ba đó đang hỗ trợ chúng tôi điều hành MYID, tiến hành kinh doanh hoặc phục vụ bạn, miễn là các bên đó đồng ý giữ bí mật thông tin này. Chúng tôi cũng có thể tiết lộ thông tin của bạn nếu việc công bố là để tuân thủ luật pháp, thực thi quy tắc máy chủ của chúng tôi hoặc bảo vệ quyền, tài sản hợp pháp hoặc sự an toàn của chúng tôi hoặc bất kỳ ai.</p>
       <p>Nội dung công khai của bạn có thể được tải xuống bởi các máy chủ khác trong mạng liên hợp. Các tút công khai hay dành cho người theo dõi được gửi đến các máy chủ nơi người theo dõi của bạn là thành viên và tin nhắn được gửi đến máy chủ của người nhận, cho đến khi những người theo dõi hoặc người nhận đó chuyển sang một máy chủ khác.</p>
       <p>Nếu bạn cho phép một ứng dụng sử dụng tài khoản của mình, tùy thuộc vào phạm vi quyền bạn phê duyệt, ứng dụng có thể truy cập thông tin trang cá nhân, danh sách người theo dõi, danh sách của bạn, tất cả tút và lượt thích của bạn. Các ứng dụng không bao giờ có thể truy cập địa chỉ e-mail hoặc mật khẩu của bạn.</p>
       <hr class="spacer" />
@@ -1534,9 +1534,9 @@ vi:
       <p>Chỉnh sửa và hoàn thiện từ <a href="https://github.com/discourse/discourse">Discourse</a>.</p>
     title: Quy tắc của %{instance}
   themes:
-    contrast: Mastodon (Độ tương phản cao)
-    default: Mastodon (Tối)
-    mastodon-light: Mastodon (Sáng)
+    contrast: MYID (Độ tương phản cao)
+    default: MYID (Tối)
+    mastodon-light: MYID (Sáng)
   time:
     formats:
       default: "%d.%m.%Y %H:%M"
@@ -1568,7 +1568,7 @@ vi:
       subject: Khiếu nại của bạn từ %{date} đã bị từ chối
       title: Khiếu nại bị từ chối
     backup_ready:
-      explanation: Bạn đã yêu cầu sao lưu toàn bộ tài khoản Mastodon của mình. Bây giờ có thể tải về!
+      explanation: Bạn đã yêu cầu sao lưu toàn bộ tài khoản MYID của mình. Bây giờ có thể tải về!
       subject: Dữ liệu cá nhân của bạn đã sẵn sàng để tải về
       title: Nhận dữ liệu cá nhân
     sign_in_token:
@@ -1618,11 +1618,11 @@ vi:
       full_handle_hint: Đây cũng là địa chỉ được dùng để giao tiếp với tất cả mọi người.
       review_preferences_action: Tùy chỉnh giao diện
       review_preferences_step: Tùy chỉnh mọi thứ! Chẳng hạn như chọn loại email nào bạn muốn nhận hoặc trạng thái đăng tút mặc định mà bạn muốn dùng. Hãy tắt tự động phát GIF nếu bạn dễ bị chóng mặt.
-      subject: Chào mừng đến với Mastodon
-      tip_federated_timeline: Mạng liên hợp là một dạng "liên hợp quốc" của Mastodon. Hiểu một cách đơn giản, nó là những người bạn đã theo dõi từ các máy chủ khác.
+      subject: Chào mừng đến với MYID
+      tip_federated_timeline: Mạng liên hợp là một dạng "liên hợp quốc" của MYID. Hiểu một cách đơn giản, nó là những người bạn đã theo dõi từ các máy chủ khác.
       tip_following: Theo mặc định, bạn sẽ theo dõi (các) quản trị viên máy chủ của bạn. Để tìm những người thú vị hơn, hãy xem qua cộng đồng và thế giới.
       tip_local_timeline: Bảng tin là nơi hiện lên những tút công khai của thành viên %{instance}. Họ là những người hàng xóm trực tiếp của bạn!
-      tip_mobile_webapp: Nếu trình duyệt trên điện thoại di động của bạn thêm Mastodon vào màn hình chính, bạn có thể nhận được thông báo đẩy. Nó hoạt động gần giống như một app điện thoại!
+      tip_mobile_webapp: Nếu trình duyệt trên điện thoại di động của bạn thêm MYID vào màn hình chính, bạn có thể nhận được thông báo đẩy. Nó hoạt động gần giống như một app điện thoại!
       tips: Mẹo
       title: Xin chào %{name}!
   users:

@@ -70,7 +70,7 @@ ru:
       form_challenge:
         current_password: Вы переходите к настройкам безопасности
       imports:
-        data: Файл CSV, экспортированный с другого узла Mastodon.
+        data: Файл CSV, экспортированный с другого узла MYID.
       invite_request:
         text: Это поможет нам рассмотреть вашу заявку
       ip_block:

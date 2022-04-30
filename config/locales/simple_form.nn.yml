@@ -66,7 +66,7 @@ nn:
       form_challenge:
         current_password: Du går inn i eit trygt område
       imports:
-        data: CSV-fil eksportert frå ein annan Mastodon-tenar
+        data: CSV-fil eksportert frå ein annan MYID-tenar
       invite_request:
         text: Dette kjem til å hjelpa oss med å gå gjennom søknaden din
       ip_block:

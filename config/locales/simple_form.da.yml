@@ -70,7 +70,7 @@ da:
       form_challenge:
         current_password: Du bevæger dig ind på et sikkert område
       imports:
-        data: CSV-fil eksporteret fra anden Mastodon-server
+        data: CSV-fil eksporteret fra anden MYID-server
       invite_request:
         text: Dette vil hjælpe os med at gennemgå din ansøgning
       ip_block:

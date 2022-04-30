@@ -60,7 +60,7 @@ hy:
       form_challenge:
         current_password: Մուտք ես գործել ապահով տարածք
       imports:
-        data: CSV ֆայլը ներմուծուել է Մաստոդոնի այլ սերուերից
+        data: CSV ֆայլը ներմուծուել է ԻՄ ID-նի այլ սերուերից
       invite_request:
         text: Սա կօգնի մեզ ստուգել քո յաւելուածը
       ip_block:

@@ -2,33 +2,33 @@
 eu:
   about:
     about_hashtag_html: Hauek <strong>#%{hashtag}</strong> traola duten bidalketa publikoak dira. Fedibertsoko edozein kontu baduzu haiekin elkarrekintza izan dezakezu.
-    about_mastodon_html: 'Etorkizuneko sare soziala: ez iragarkirik eta ez zelatatze korporatiborik, diseinu etikoa eta deszentralizazioa! Izan zure datuen jabea Mastodonekin!'
+    about_mastodon_html: 'Etorkizuneko sare soziala: ez iragarkirik eta ez zelatatze korporatiborik, diseinu etikoa eta deszentralizazioa! Izan zure datuen jabea MYIDekin!'
     about_this: Honi buruz
     active_count_after: aktibo
     active_footnote: Hilabeteko erabiltzaile aktiboak (HEA)
     administered_by: 'Administratzailea(k):'
     api: APIa
     apps: Aplikazio mugikorrak
-    apps_platforms: Erabili Mastodon, iOS, Android eta beste plataformetatik
+    apps_platforms: Erabili MYID, iOS, Android eta beste plataformetatik
     browse_directory: Arakatu profilen direktorio bat eta iragazi interesen arabera
     browse_local_posts: Arakatu zerbitzari honetako bidalketa publikoen zuzeneko jario bat
-    browse_public_posts: Arakatu Mastodoneko bidalketa publikoen zuzeneko jario bat
+    browse_public_posts: Arakatu MYIDeko bidalketa publikoen zuzeneko jario bat
     contact: Kontaktua
     contact_missing: Ezarri gabe
     contact_unavailable: E/E
     continue_to_web: Jarraitu web aplikaziora
     discover_users: Aurkitu erabiltzaileak
     documentation: Dokumentazioa
-    federation_hint_html: "%{instance} instantzian kontu bat izanda edozein Mastodon zerbitzariko jendea jarraitu ahal izango duzu, eta harago ere."
+    federation_hint_html: "%{instance} instantzian kontu bat izanda edozein MYID zerbitzariko jendea jarraitu ahal izango duzu, eta harago ere."
     get_apps: Probatu mugikorrerako aplikazio bat
-    hosted_on: Mastodon %{domain} domeinuan ostatatua
+    hosted_on: MYID %{domain} domeinuan ostatatua
     instance_actor_flash: "Kontu hau zerbitzaria bera adierazten duen aktore birtual bat da, ez norbanako bat. Federaziorako erabiltzen da eta ez zenuke blokeatu behar instantzia osoa blokeatu nahi ez baduzu, kasu horretan domeinua blokeatzea egokia litzateke. \n"
     learn_more: Ikasi gehiago
     logged_in_as_html: "%{username} bezala saioa hasita zaude."
     logout_before_registering: Saioa hasi duzu jada.
     privacy_policy: Pribatutasun politika
     rules: Zerbitzariaren arauak
-    rules_html: 'Behean Mastodon zerbitzari honetan kontua eduki nahi baduzu jarraitu beharreko arauen laburpena daukazu:'
+    rules_html: 'Behean MYID zerbitzari honetan kontua eduki nahi baduzu jarraitu beharreko arauen laburpena daukazu:'
     see_whats_happening: Ikusi zer gertatzen ari den
     server_stats: 'Zerbitzariaren estatistikak:'
     source_code: Iturburu kodea
@@ -48,12 +48,12 @@ eu:
       silenced_title: Isilarazitako zerbitzariak
       suspended: 'Ez da zerbitzari hauetako daturik prozesatuko, gordeko, edo partekatuko, zerbitzari hauetako erabiltzaileekin komunikatzea ezinezkoa eginez:'
       suspended_title: Kanporatutako zerbitzariak
-    unavailable_content_html: Mastodonek orokorrean fedibertsoko beste zerbitzarietako erabiltzaileen edukia ikustea eta beraiekin aritzea ahalbidetzen dizu. Salbuespena egin da zerbitzari zehatz honekin.
+    unavailable_content_html: MYIDek orokorrean fedibertsoko beste zerbitzarietako erabiltzaileen edukia ikustea eta beraiekin aritzea ahalbidetzen dizu. Salbuespena egin da zerbitzari zehatz honekin.
     user_count_after:
       one: erabiltzaile
       other: erabiltzaile
     user_count_before: Hemen
-    what_is_mastodon: Zer da Mastodon?
+    what_is_mastodon: Zer da MYID?
   accounts:
     choices_html: "%{name}(r)en aukerak:"
     endorsements_hint: Jarraitzen duzun jendea sustatu dezakezu web interfazearen bidez, eta hemen agertuko da.
@@ -676,13 +676,13 @@ eu:
         desc_html: Erakutsi langile banda erabiltzailearen orrian
         title: Erakutsi langile banda
       site_description:
-        desc_html: Azaleko orrian agertuko den sarrera paragrafoa. Azaldu zerk egiten duen berezi Mastodon zerbitzari hau eta garrantzizko beste edozer. HTML etiketak erabili ditzakezu, zehazki <code>&lt;a&gt;</code> eta <code>&lt;em&gt;</code>.
+        desc_html: Azaleko orrian agertuko den sarrera paragrafoa. Azaldu zerk egiten duen berezi MYID zerbitzari hau eta garrantzizko beste edozer. HTML etiketak erabili ditzakezu, zehazki <code>&lt;a&gt;</code> eta <code>&lt;em&gt;</code>.
         title: Zerbitzariaren deskripzioa
       site_description_extended:
         desc_html: Zure jokabide-koderako  toki on bat, arauak, gidalerroak eta zure zerbitzari desberdin egiten duten bestelakoak. HTML etiketak erabili ditzakezu
         title: Informazio hedatu pertsonalizatua
       site_short_description:
-        desc_html: Albo-barra eta meta etiketetan bistaratua. Deskribatu zerk egiten duen Mastodon zerbitzari hau berezia paragrafo batean. Hutsik lagatzekotan lehenetsitako deskripzioa agertuko da.
+        desc_html: Albo-barra eta meta etiketetan bistaratua. Deskribatu zerk egiten duen MYID zerbitzari hau berezia paragrafo batean. Hutsik lagatzekotan lehenetsitako deskripzioa agertuko da.
         title: Zerbitzariaren deskripzio laburra
       site_terms:
         desc_html: Zure pribatutasun politika, erabilera baldintzak eta bestelako testu legalak idatzi ditzakezu. HTML etiketak erabili ditzakezu
@@ -797,8 +797,8 @@ eu:
     confirmation_dialogs: Berrespen dialogoak
     discovery: Aurkitzea
     localization:
-      body: Mastodon boluntarioek itzultzen dute.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYID boluntarioek itzultzen dute.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Edonork lagundu dezake.
     sensitive_content: Eduki hunkigarria
     toot_layout: Bidalketen diseinua
@@ -825,9 +825,9 @@ eu:
     delete_account: Ezabatu kontua
     delete_account_html: Kontua ezabatu nahi baduzu, <a href="%{path}">jarraitu hemen</a>. Berrestea eskatuko zaizu.
     description:
-      prefix_invited_by_user: "@%{name} erabiltzaileak Mastodon zerbitzari honetara elkartzera gonbidatzen zaitu!"
-      prefix_sign_up: Eman izena Mastodon-en!
-      suffix: Kontu bat baduzu, jendea jarraitu ahal izango duzu, bidalketak sortu eta Mastodon zein kanpoko zerbitzarietako erabiltzaileekin elkarrizketan aritu!
+      prefix_invited_by_user: "@%{name} erabiltzaileak MYID zerbitzari honetara elkartzera gonbidatzen zaitu!"
+      prefix_sign_up: Eman izena MYID-en!
+      suffix: Kontu bat baduzu, jendea jarraitu ahal izango duzu, bidalketak sortu eta MYID zein kanpoko zerbitzarietako erabiltzaileekin elkarrizketan aritu!
     didnt_get_confirmation: Ez dituzu berresteko argibideak jaso?
     dont_have_your_security_key: Ez daukazu zure segurtasun gakoa?
     forgot_password: Pasahitza ahaztu duzu?
@@ -936,7 +936,7 @@ eu:
       content: Sentitzen dugu, zerbait okerra gertatu da gure aldean.
       title: Orri hau ez da zuzena
     '503': Orria ezin izan da zerbitzatu zerbitzariaren behin behineko arazo bat dela eta.
-    noscript_html: Mastodon web aplikazioa erabiltzeko, gaitu JavaScript. Bestela, probatu Mastodon plataformarako <a href="%{apps_path}">aplikazio natibo</a>ren bat.
+    noscript_html: MYID web aplikazioa erabiltzeko, gaitu JavaScript. Bestela, probatu MYID plataformarako <a href="%{apps_path}">aplikazio natibo</a>ren bat.
   existing_username_validator:
     not_found: ezin izan da izen hori duen kide lokalik aurkitu
     not_found_multiple: ezin izan dira aurkitu %{usernames}
@@ -1239,7 +1239,7 @@ eu:
       weibo: Weibo
     current_session: Uneko saioa
     description: "%{browser} - %{platform}"
-    explanation: Zure Mastodon kontuan saioa hasita duten nabigatzaileak daude.
+    explanation: Zure MYID kontuan saioa hasita duten nabigatzaileak daude.
     ip: IP-a
     platforms:
       adobe_air: Adobe Air
@@ -1264,7 +1264,7 @@ eu:
     aliases: Kontuaren ezizenak
     appearance: Itxura
     authorized_apps: Baimendutako aplikazioak
-    back: Itzuli Mastodon-era
+    back: Itzuli MYID-era
     delete: Kontuaren ezabaketa
     development: Garapena
     edit_profile: Aldatu profila
@@ -1376,7 +1376,7 @@ eu:
       <ul>
       <li><em>Kontuaren oinarrizko informazioa</em>: Zerbitzari honetan izena ematen baduzu, erabiltzaile-izena, e-posta helbidea eta pasahitza sartzea galdetu dakizuke. Profilean bestelako informazioa sartu dezakezu esaterako pantaila-izena eta biografia, eta profileko eta goiburuko irudiak igo ditzakezu. Erabiltzaile-izena, pantaila-izena, biografia, profileko irudia eta goiburuko irudia beti dira publikoak.</li>
       <li><em>Bidalketak, jarraitzea eta beste informazioa</em>: Jarraitzen duzun jendearen zerrenda publikoa da, baita zure jarraitzaileena ere. Bidalketa bat argitaratzean, data eta ordua eta mezua bidaltzeko erabilitako aplikazioa gordetzen dira. Bidalketek eranskinak izan ditzakete, esaterako irudiak eta bideoak. Bidalketa publikoak eta zerrendatu gabeak publikoki ikusi daitezke. Zure profilean bidalketa bat sustatzen duzunean, informazio hori ere publikoki eskuragarri dago. Zure bidalketak zure jarraitzaileei bidaltzen zaizkie, kasu batzuetan honek esan nahi du beste zerbitzari batzuetara bidaltzen dela eta han kopiak gordetzen dituztela. Bidalketak ezabatzen dituzunean, hori ere zure jarraitzaileei bidaltzen zaie. Beste bidalketa batzuk zabaltzea edo gogoko izatea beti da informazio publikoa.</li>
-      <li><em>Mezu zuzenak eta soilik jarraitzaileentzako bidalketak</em>: Bidalketa guztiak zerbitzarian gorde eta prozesatzen dira. Soilik jarraitzaileentzako diren bidalketak zure jarraitzaileei bidaltzen zaizkie eta bertan aipatutako erabiltzaileei. Mezu zuzenak soilik aipatutako erabiltzaileei bidaltzen zaizkie. Honek esan nahi du kasu batzuetan beste zerbitzari batzuetara bidaltzen dela mezua eta han kopiak gordetzen direla. Borondate oneko ahalegin bat egiten dugu mezuok soilik baimena duten pertsonek ikus ditzaten, baina beste zerbitzariek agian ez. Hortaz, zure jarraitzaileen zerbitzaria zein den egiaztatzea garrantzitsua da. Jarraitzaileak eskuz onartu eta ukatzeko aukera aldatu dezakezu. <em>Kontuan izan zerbitzariaren operadoreak eta mezua jasotzen duen edozein zerbitzariko operadoreek mezuok ikus ditzaketela</em> eta edonork atera dezakeela pantaila argazki bat, kopiatu edo beste modu batean partekatu.<em>Ez partekatu informazio arriskutsua Mastodon bidez.</em></li>
+      <li><em>Mezu zuzenak eta soilik jarraitzaileentzako bidalketak</em>: Bidalketa guztiak zerbitzarian gorde eta prozesatzen dira. Soilik jarraitzaileentzako diren bidalketak zure jarraitzaileei bidaltzen zaizkie eta bertan aipatutako erabiltzaileei. Mezu zuzenak soilik aipatutako erabiltzaileei bidaltzen zaizkie. Honek esan nahi du kasu batzuetan beste zerbitzari batzuetara bidaltzen dela mezua eta han kopiak gordetzen direla. Borondate oneko ahalegin bat egiten dugu mezuok soilik baimena duten pertsonek ikus ditzaten, baina beste zerbitzariek agian ez. Hortaz, zure jarraitzaileen zerbitzaria zein den egiaztatzea garrantzitsua da. Jarraitzaileak eskuz onartu eta ukatzeko aukera aldatu dezakezu. <em>Kontuan izan zerbitzariaren operadoreak eta mezua jasotzen duen edozein zerbitzariko operadoreek mezuok ikus ditzaketela</em> eta edonork atera dezakeela pantaila argazki bat, kopiatu edo beste modu batean partekatu.<em>Ez partekatu informazio arriskutsua MYID bidez.</em></li>
       <li><em>IP-ak eta bestelako meta-datuak</em>: Saioa hasten duzunean, zure IP helbidea gordetzen dugu, eta erabiltzen duzun nabigatzaile edo aplikazioa. Hasitako saio guztiak zuk ikusteko moduan daude eta ezarpenetan indargabetu ditzakezu. Erabilitako azken IP helbidea 12 hilabetez gordetzen da. Gure zerbitzariak jasotako eskari guztiak eta IP-a duten zerbitzariko egunkariak gorde genitzake.</li>
       </ul>
 
@@ -1387,7 +1387,7 @@ eu:
       <p>Biltzen dugun informazio guztia honela erabiltzen da:</p>
 
       <ul>
-      <li>Mastodon zerbitzuko funtzio nagusietarako. Beste pertsonen edukiarekin harremanetan sartzeko edo zure edukia argitaratzeko saioa hasi behar duzu. Adibidez, beste pertsona batzuk jarraitu ditzakezu zure denbora-lerro pertsonalizatu bat izateko.</li>
+      <li>MYID zerbitzuko funtzio nagusietarako. Beste pertsonen edukiarekin harremanetan sartzeko edo zure edukia argitaratzeko saioa hasi behar duzu. Adibidez, beste pertsona batzuk jarraitu ditzakezu zure denbora-lerro pertsonalizatu bat izateko.</li>
       <li>Komunitatearen moderazioari laguntzeko, esaterako zure IP-a ezagutzen ditugun beste batzuekin alderatu dezakegu, debekuak ekiditea edo bestelako arau-urraketak eragozteko.</li>
       <li>Emandako e-posta helbidea informazioa bidaltzeko erabili genezake, beste pertsonek zure edukiekin harremanetan jartzean jakinarazteko, edo mezu bat bidaltzen dizutenean, galderak erantzutean eta bestelako eskari eta galderetarako.</li>
       </ul>
@@ -1452,9 +1452,9 @@ eu:
       <p>Jatorrian <a href="https://github.com/discourse/discourse">Discourse sarearen pribatutasun politikatik</a> moldatua.</p>
     title: "%{instance} instantziaren erabilera baldintzak eta pribatutasun politika"
   themes:
-    contrast: Mastodon (Kontraste altua)
-    default: Mastodon (Iluna)
-    mastodon-light: Mastodon (Argia)
+    contrast: MYID (Kontraste altua)
+    default: MYID (Iluna)
+    mastodon-light: MYID (Argia)
   time:
     formats:
       default: "%Y(e)ko %b %d, %H:%M"
@@ -1476,7 +1476,7 @@ eu:
     webauthn: Segurtasun gakoak
   user_mailer:
     backup_ready:
-      explanation: Zure Mastodon kontuaren babes-kopia osoa eskatu duzu. Deskargatzeko prest dago!
+      explanation: Zure MYID kontuaren babes-kopia osoa eskatu duzu. Deskargatzeko prest dago!
       subject: Zure artxiboa deskargatzeko prest dago
       title: Artxiboa jasotzea
     sign_in_token:
@@ -1506,11 +1506,11 @@ eu:
       full_handle_hint: Hau da lagunei esango zeniekeena beste zerbitzari batetik zu jarraitzeko edo zuri mezuak bidaltzeko.
       review_preferences_action: Aldatu hobespenak
       review_preferences_step: Ziurtatu hobespenak ezartzen dituzula, hala nola, jaso nahi dituzu e-postak edo lehenetsitako pribatutasuna bidalketa berrietarako. Mareatzen ez bazaitu GIF-ak automatikoki abiatzea ere ezarri dezakezu.
-      subject: Ongi etorri Mastodon-era
-      tip_federated_timeline: Federatutako denbora-lerroan Mastodon sarearen trafikoa ikusten da. Baina zure instantziako auzokideak jarraitutakoak besterik ez daude hor, ez da osoa.
+      subject: Ongi etorri MYID-era
+      tip_federated_timeline: Federatutako denbora-lerroan MYID sarearen trafikoa ikusten da. Baina zure instantziako auzokideak jarraitutakoak besterik ez daude hor, ez da osoa.
       tip_following: Lehenetsita zerbitzariko administratzailea jarraitzen duzu. Jende interesgarri gehiago aurkitzeko, egiaztatu denbora-lerro lokala eta federatua.
       tip_local_timeline: Denbora-lerro lokalean %{instance} instantziako trafikoa ikusten da. Hauek zure instantziako auzokideak dira!
-      tip_mobile_webapp: Zure mugikorreko nabigatzaileak Mastodon hasiera pantailan gehitzea eskaintzen badizu, push jakinarazpenak jaso ditzakezu. Aplikazio natiboaren parekoa da zentzu askotan!
+      tip_mobile_webapp: Zure mugikorreko nabigatzaileak MYID hasiera pantailan gehitzea eskaintzen badizu, push jakinarazpenak jaso ditzakezu. Aplikazio natiboaren parekoa da zentzu askotan!
       tips: Aholkuak
       title: Ongi etorri, %{name}!
   users:
@@ -1523,7 +1523,7 @@ eu:
     signed_in_as: 'Saioa honela hasita:'
     suspicious_sign_in_confirmation: Dirudienez inoiz ez duzu saioa hasi gailu honetatik eta aspaldian ez duzu saiorik hasi. Horregatik, segurtasun kode bat bidaliko dizugu zure e-posta helbidera zu zarela egiaztatzeko.
   verification:
-    explanation_html: 'Ezin duzu <strong>zure burua zure profileko metadatuen esteken jabe gisa egiaztatu</strong>. Horretarako, estekatutako webgunean zure Mastodon profilera daraman esteka bat egon behar du. Mastodonera daraman esteka horrek<strong>derrigorrez</strong> <code>rel="me"</code> artibutua izan behar du . Estekaren testuak ez du axola. Hona adibide bat:'
+    explanation_html: 'Ezin duzu <strong>zure burua zure profileko metadatuen esteken jabe gisa egiaztatu</strong>. Horretarako, estekatutako webgunean zure MYID profilera daraman esteka bat egon behar du. MYIDera daraman esteka horrek<strong>derrigorrez</strong> <code>rel="me"</code> artibutua izan behar du . Estekaren testuak ez du axola. Hona adibide bat:'
     verification: Egiaztaketa
   webauthn_credentials:
     add: Gehitu segurtasun gako berria

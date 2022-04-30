@@ -2,32 +2,32 @@
 sc:
   about:
     about_hashtag_html: Custos sunt tuts pùblicos etichetados cun <strong>#%{hashtag}</strong>. Bi podes intrare in cuntatu si tenes unu contu in cale si siat logu de su fediversu.
-    about_mastodon_html: 'Sa rete sotziale de su benidore: sena publitzidade, sena vigilàntzia corporativa, disinnu èticu e detzentralizatzione! Sias mere de is datos tuos cun Mastodon!'
+    about_mastodon_html: 'Sa rete sotziale de su benidore: sena publitzidade, sena vigilàntzia corporativa, disinnu èticu e detzentralizatzione! Sias mere de is datos tuos cun MYID!'
     about_this: Informatziones
     active_count_after: ativu
     active_footnote: Utentes cun atividade mensile (UAM)
     administered_by: 'Amministradu dae:'
     api: API
     apps: Aplicatziones mòbiles
-    apps_platforms: Imprea Mastodon dae iOS, Android e àteras prataformas
+    apps_platforms: Imprea MYID dae iOS, Android e àteras prataformas
     browse_directory: Nàviga in su diretòriu de profilos e filtra segundu interessos
     browse_local_posts: Nàviga in unu flussu in direta de messàgios pùblicos de custu serbidore
-    browse_public_posts: Nàviga in unu flussu in direta de messàgios pùblicos in Mastodon
+    browse_public_posts: Nàviga in unu flussu in direta de messàgios pùblicos in MYID
     contact: Cuntatu
     contact_missing: No cunfiguradu
     contact_unavailable: No a disponimentu
     discover_users: Iscoberi utentes
     documentation: Documentatzione
-    federation_hint_html: Cun unu contu in %{instance} as a pòdere sighire persones in cale si siat serbidore de Mastodon o de su fediversu.
+    federation_hint_html: Cun unu contu in %{instance} as a pòdere sighire persones in cale si siat serbidore de MYID o de su fediversu.
     get_apps: Proa un'aplicatzione mòbile
-    hosted_on: Mastodon allogiadu in %{domain}
+    hosted_on: MYID allogiadu in %{domain}
     instance_actor_flash: 'Custu contu est un''atore virtuale impreadu pro rapresentare su pròpiu serbidore, no est un''utente individuale. Benit impreadu pro punnas de federatzione e no ddu dias dèpere blocare si non boles blocare su domìniu intreu, e in cussu casu dias dèpere impreare unu blocu de domìniu.
 
       '
     learn_more: Àteras informatziones
     privacy_policy: Polìtica de riservadesa
     rules: Règulas de su serbidore
-    rules_html: 'Depes sighire is règulas imbenientes si boles tènnere unu contu in custu serbidore de Mastodon:'
+    rules_html: 'Depes sighire is règulas imbenientes si boles tènnere unu contu in custu serbidore de MYID:'
     see_whats_happening: Càstia su chi est acontessende
     server_stats: 'Istatìsticas de su serbidore:'
     source_code: Còdighe de orìgine
@@ -47,12 +47,12 @@ sc:
       silenced_title: Serbidores a sa muda
       suspended: 'Perunu datu de custos serbidores at a èssere protzessadu, immagasinadu o cuncambiadu; est impossìbile duncas cale si siat interatzione o comunicatzione cun is utentes de custos serbidores:'
       suspended_title: Serbidores suspèndidos
-    unavailable_content_html: Mastodon ti permitit de bìdere su cuntenutu de utentes de cale si siat àteru serbidore de su fediversu. Custas sunt etzetziones fatas in custu serbidore ispetzìficu.
+    unavailable_content_html: MYID ti permitit de bìdere su cuntenutu de utentes de cale si siat àteru serbidore de su fediversu. Custas sunt etzetziones fatas in custu serbidore ispetzìficu.
     user_count_after:
       one: utente
       other: utentes
     user_count_before: Allogiadu dae
-    what_is_mastodon: Ite est Mastodon?
+    what_is_mastodon: Ite est MYID?
   accounts:
     choices_html: 'Sèberos de %{name}:'
     endorsements_hint: Podes cussigiare gente chi sighis dae s'interfache web, e at a aparèssere inoghe.
@@ -568,13 +568,13 @@ sc:
         desc_html: Ammustra un'insigna de personale in sa pàgina de utente
         title: Ammustra insigna de personale
       site_description:
-        desc_html: Paràgrafu de introdutzione a s'API. Descrie pro ite custu serbidore de Mastodon siat ispetziale e cale si siat àtera cosa de importu. Podes impreare etichetas HTML, mescamente <code>&lt;a&gt;</code> e <code>&lt;em&gt;</code>.
+        desc_html: Paràgrafu de introdutzione a s'API. Descrie pro ite custu serbidore de MYID siat ispetziale e cale si siat àtera cosa de importu. Podes impreare etichetas HTML, mescamente <code>&lt;a&gt;</code> e <code>&lt;em&gt;</code>.
         title: Descritzione de su serbidore
       site_description_extended:
         desc_html: Unu logu adatu pro publicare su còdighe de cumportamentu, règulas, diretivas e àteras caraterìsticas ispetzìficas de su serbidore tuo. Podes impreare etichetas HTML
         title: Descritzione estèndida de su logu
       site_short_description:
-        desc_html: Ammustradu in sa barra laterale e in is meta-etichetas. Descrie ite est Mastodon e pro ite custu serbidore est ispetziale in unu paràgrafu.
+        desc_html: Ammustradu in sa barra laterale e in is meta-etichetas. Descrie ite est MYID e pro ite custu serbidore est ispetziale in unu paràgrafu.
         title: Descritzione curtza de su serbidore
       site_terms:
         desc_html: Podes iscrìere sa normativa de riservadesa tua, cunditziones de servìtziu e àteras normas legales. Podes impreare etichetas HTML
@@ -644,8 +644,8 @@ sc:
     confirmation_dialogs: Diàlogos de cunfirmatzione
     discovery: Iscoberta
     localization:
-      body: Mastodon est bortadu in manera voluntària.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYID est bortadu in manera voluntària.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Chie si siat podet contribuire.
     sensitive_content: Cuntenutu sensìbile
     toot_layout: Dispositzione de is tuts
@@ -672,9 +672,9 @@ sc:
     delete_account: Cantzella su contu
     delete_account_html: Si boles cantzellare su contu, ddu podes <a href="%{path}">fàghere inoghe</a>. T'amus a dimandare una cunfirmatzione.
     description:
-      prefix_invited_by_user: "@%{name} t'at invitadu a custu serbidore de Mastodon!"
-      prefix_sign_up: Registra·ti oe a Mastodon!
-      suffix: Cun unu contu as a pòdere sighire gente, publicare e cuncambiare messàgios cun persones de cale si siat serbidore de Mastodon e àteru!
+      prefix_invited_by_user: "@%{name} t'at invitadu a custu serbidore de MYID!"
+      prefix_sign_up: Registra·ti oe a MYID!
+      suffix: Cun unu contu as a pòdere sighire gente, publicare e cuncambiare messàgios cun persones de cale si siat serbidore de MYID e àteru!
     didnt_get_confirmation: No as retzidu su messàgiu de cunfirmatzione?
     dont_have_your_security_key: Non tenes sa crae de seguresa tua?
     forgot_password: Ti ses iscarèssidu de sa crae?
@@ -783,7 +783,7 @@ sc:
       content: Faddina dae s'ala nostra.
       title: Custa pàgina no est curreta
     '503': Faddina in sa trasmissione de sa pàgina pro more de una faddina temporànea de su serbidore.
-    noscript_html: Pro impreare s'aplicatzione web de Mastodon, ativa JavaScript. In alternativa, proa una de is <a href="%{apps_path}">aplicatziones nativas</a> pro Mastodon in sa prataforma tua.
+    noscript_html: Pro impreare s'aplicatzione web de MYID, ativa JavaScript. In alternativa, proa una de is <a href="%{apps_path}">aplicatziones nativas</a> pro MYID in sa prataforma tua.
   existing_username_validator:
     not_found: impossìbile agatare utentes locales cun cussu nòmine
     not_found_multiple: impossìbile agatare %{usernames}
@@ -1073,7 +1073,7 @@ sc:
       weibo: Weibo
     current_session: Sessione atuale
     description: "%{browser} de %{platform}"
-    explanation: Custos sunt is navigadores web de is chi ses intradu in su contu tuo de Mastodon.
+    explanation: Custos sunt is navigadores web de is chi ses intradu in su contu tuo de MYID.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1097,7 +1097,7 @@ sc:
     aliases: Nomìngios de su contu
     appearance: Aspetu
     authorized_apps: Aplicatziones autorizadas
-    back: Torra a Mastodon
+    back: Torra a MYID
     delete: Eliminatzione de su contu
     development: Isvilupu
     edit_profile: Modìfica profilu
@@ -1183,7 +1183,7 @@ sc:
       <ul>
       <li><em>Informatziones de base de su contu</em>: Si t'as a registrare in custu serbidore, ti diant pòdere pedire de insertare unu nòmine utente, un'indiritzu de posta eletrònica e una crae de intrada. Dias pòdere insertare fintzas àteras informatziones de profilu, che a unu nòmine de ammustrare e una biografia, e carrigare un'immàgine de profilu e una de cobertedda. Su nòmine utente, cussu ammustradu, sa biografia, s'immàgine de profilu e de cobertedda sunt semper allistados in pùblicu.</li>
       <li><em>Publicatziones, sighidores e àteras informatziones pùblicas</em>: Sa lista de is persones chi sighis est allistada in pùblicu, e sa matessi cosa balet pro is chi ti sighint. Cando imbias unu messàgiu sa data e s'ora benint sarvadas, aici comente s'aplicatzione dae sa cale as imbiadu su messàgiu. Is messàgios diant pòdere cuntènnere cuntenutos multimediales allongiados, che a immàgines e vìdeos. Is publicatziones pùblicas e no allistadas sunt a disponimentu in abertu. Cando ammustras una publicatzione in su profilu tuo, fintzas cussa est un'informatzione a disponimentu pùblicu. Is publicatziones tuas benint imbiadas a is sighidores tuos, cosa chi a bortas bolet nàrrere chi benint intregadas a serbidores diferentes chi nde sarvant còpias in cue. Cando cantzellas publicatziones, custu acuntessimentu benit imbiadu fintzas issu a is persones chi ti sighint. S'atzione de torrare a cumpartzire o de pònnere in is preferidos un'àtera publicatzione est semper pùblica.</li>
-      <li><em>Publicatziones diretas e pro chie ti sighit ebbia</em>: Totu is publicatziones benint archiviadas e protzessadas in su serbidore. Is publicatziones pro is sighidores ebbia benint intregadas a chie ti sighit e a is utentes mentovados in intro, e is publicatziones diretas benint intregadas isceti a chie sighit a chi ddoe sunt mentovados in intro. In unos cantos casos bolet nàrrere chi benint intregados a serbidores diferentes e chi còpias issoro benint sarvadas in cue. Nois chircamus de limitare s'atzessu a custas publicatziones a is persones autorizadas ebbia, ma àteros serbidores bi diant pòdere non resessere. Pro custa resone est de importu mannu su de revisionare is serbidores a is cales faghent parte is sighiduras tuas. Podes impreare un'optzione pro aprovare o refudare in manera automàtica sighiduras noas in is cunfiguratziones. <em>Regorda·ti chi is operadores de su serbidore e cale si siat serbidore chi ddos retzit podent castiare custos messàgios</em>, e chi is retzidores ddos diant pòdere sarvare faghende caturas, copiende·los o torrende·los a cumpartzire in àteras maneras. <em>Non cumpartzas peruna informatzione perigulosa impreende Mastodon.</em></li>
+      <li><em>Publicatziones diretas e pro chie ti sighit ebbia</em>: Totu is publicatziones benint archiviadas e protzessadas in su serbidore. Is publicatziones pro is sighidores ebbia benint intregadas a chie ti sighit e a is utentes mentovados in intro, e is publicatziones diretas benint intregadas isceti a chie sighit a chi ddoe sunt mentovados in intro. In unos cantos casos bolet nàrrere chi benint intregados a serbidores diferentes e chi còpias issoro benint sarvadas in cue. Nois chircamus de limitare s'atzessu a custas publicatziones a is persones autorizadas ebbia, ma àteros serbidores bi diant pòdere non resessere. Pro custa resone est de importu mannu su de revisionare is serbidores a is cales faghent parte is sighiduras tuas. Podes impreare un'optzione pro aprovare o refudare in manera automàtica sighiduras noas in is cunfiguratziones. <em>Regorda·ti chi is operadores de su serbidore e cale si siat serbidore chi ddos retzit podent castiare custos messàgios</em>, e chi is retzidores ddos diant pòdere sarvare faghende caturas, copiende·los o torrende·los a cumpartzire in àteras maneras. <em>Non cumpartzas peruna informatzione perigulosa impreende MYID.</em></li>
       <li><em>IP e àteros metadatos</em>: Cando intras in su contu tuo sarvamus s'indiritzu IP dae ue ses intrende, e fintzas su nòmine de s'aplicatzione chi impreas comente navigadore. Totu is sessiones de atzessu abertas sunt a disponimentu pro sa revisione e sa rèvoca in is cunfiguratziones tuas. S'ùrtimu indiritzu IP impreadu benit sarvadu finas a 12 meses. Diamus pòdere archiviare fintzas raportos chi includent is indiritzos IP de totu is rechestas a su serbidore nostru.</li>
       </ul>
 
@@ -1194,7 +1194,7 @@ sc:
       <p>Totu is informatziones chi collimus dae tene diant pòdere èssere impreadas in is maneras chi sighint:</p>
 
       <ul>
-      <li>Pro frunire sa funtzionalidade de base de Mastodon. Podes interagire cun is cuntenutos de is àteras persones, e cumpartzire is tuos, isceti cando as fatu s'atzessu in su contu tuo. Pro esèmpiu, podes sighire àteras persones pro castiare is publicatziones cumbinadas issoro in sa lìnia de tempus personalizada printzipale tua.</li>
+      <li>Pro frunire sa funtzionalidade de base de MYID. Podes interagire cun is cuntenutos de is àteras persones, e cumpartzire is tuos, isceti cando as fatu s'atzessu in su contu tuo. Pro esèmpiu, podes sighire àteras persones pro castiare is publicatziones cumbinadas issoro in sa lìnia de tempus personalizada printzipale tua.</li>
       <li>Pro agiudare sa moderatzione de sa comunidade, pro esèmpiu cunfrontende s'indiritzu IP tuo cun àteros giai connotos pro verificare evasiones de blocos o àteras violatziones.</li>
       <li>S'indiritzu de posta eletrònica chi as a frunire diat pòdere èssere impreadu pro t'imbiare informatziones, notìficas a pitzu de àteras persones chi ant a interagire cun is cuntenutos tuos o chi t'ant a imbiare messàgios, e pro rispòndere a interrogativos e/o àteras rechestas o preguntas.</li>
       </ul>
@@ -1259,9 +1259,9 @@ sc:
       <p>Adatadu, in orìgine, dae sa <a href="https://github.com/discourse/discourse">Polìtica de riservadesa de Discourse</a>.</p>
     title: "%{instance} Cunditziones de su servìtziu e polìtica de riservadesa"
   themes:
-    contrast: Mastodon (cuntrastu artu)
-    default: Mastodon (iscuru)
-    mastodon-light: Mastodon (craru)
+    contrast: MYID (cuntrastu artu)
+    default: MYID (iscuru)
+    mastodon-light: MYID (craru)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
@@ -1283,7 +1283,7 @@ sc:
     webauthn: Craes de seguresa
   user_mailer:
     backup_ready:
-      explanation: As pedidu una còpia de seguresa totale de su contu de Mastodon tuo. Immoe est pronta pro s'iscarrigamentu!
+      explanation: As pedidu una còpia de seguresa totale de su contu de MYID tuo. Immoe est pronta pro s'iscarrigamentu!
       subject: S'archìviu tuo est prontu pro èssere iscarrigadu
       title: Collida dae s'archìviu
     sign_in_token:
@@ -1313,11 +1313,11 @@ sc:
       full_handle_hint: Custu est su chi dias nàrrere a is amistades tuas pro chi ti potzant imbiare messàgios o sighire dae un'àteru serbidore.
       review_preferences_action: Muda is preferèntzias
       review_preferences_step: Regorda·ti de cunfigurare is preferèntzias tuas, comente a cale messàgios de posta eletrònicas boles retzire, o ite livellu de riservadesa dias bòlere chi siat predefinidu pro is messàgios tuos. Si is immàgines in movimentu non ti infadant podes seberare de abilitare sa riprodutzione automàtica de is GIF.
-      subject: Ti donamus su benebènnidu a Mastodon
-      tip_federated_timeline: Sa lìnia de tempus federada est una vista globale de sa retza de Mastodon. Ma includet isceti is persones sighidas dae is bighinos tuos, duncas no est totale.
+      subject: Ti donamus su benebènnidu a MYID
+      tip_federated_timeline: Sa lìnia de tempus federada est una vista globale de sa retza de MYID. Ma includet isceti is persones sighidas dae is bighinos tuos, duncas no est totale.
       tip_following: Pro more de is cunfiguratziones predefinidas sighis s'amministratzione de su serbidore tuo. Pro agatare àteras persones de interessu, càstia is lìnias de su tempus locale e federada.
       tip_local_timeline: Sa lìnia de tempus locale est una vista globale de is persones in %{instance}. Custos sunt is bighinos tuos!
-      tip_mobile_webapp: Si su navigadore mòbile tuo t'oferit de agiùnghere Mastodon a s'ischermada printzipale tua podes retzire notìficas push. Funtzionat che a un'aplicatzione nativa in maneras medas!
+      tip_mobile_webapp: Si su navigadore mòbile tuo t'oferit de agiùnghere MYID a s'ischermada printzipale tua podes retzire notìficas push. Funtzionat che a un'aplicatzione nativa in maneras medas!
       tips: Impòsitos
       title: Ti donamus su benebènnidu, %{name}!
   users:
@@ -1328,9 +1328,9 @@ sc:
     otp_lost_help_html: Si as pèrdidu s'atzessu a ambos, podes cuntatare a %{email}
     seamless_external_login: As abertu sa sessione pro mèdiu de unu servìtziu esternu, e pro custa resone is cunfiguratziones de sa crae de intrada e de posta eletrònica non sunt a disponimentu.
     signed_in_as: 'Sessione aberta comente:'
-    suspicious_sign_in_confirmation: Paret chi no as mai abertu sa sessione dae custu dispositivu e est dae unu pagu de tempus chi no intras in Mastodon, duncas ti semus imbiende unu còdighe de seguresa a s'indiritzu de posta eletrònica tuo pro cunfirmare chi ses tue.
+    suspicious_sign_in_confirmation: Paret chi no as mai abertu sa sessione dae custu dispositivu e est dae unu pagu de tempus chi no intras in MYID, duncas ti semus imbiende unu còdighe de seguresa a s'indiritzu de posta eletrònica tuo pro cunfirmare chi ses tue.
   verification:
-    explanation_html: 'Ti podes <strong>verificare a sa sola comente mere de is ligòngios in is metadatos de su profilu tuo</strong>. Pro ddu fàghere su situ ligadu depet cuntènnere unu ligòngiu chi torret a su profilu de Mastodon tuo. Su ligòngiu in su situ <strong>depet</strong> tènnere un''atributu <code>rel="me"</code>. Su testu cuntenutu in su ligòngiu no est de importu. Custu est un''esèmpiu:'
+    explanation_html: 'Ti podes <strong>verificare a sa sola comente mere de is ligòngios in is metadatos de su profilu tuo</strong>. Pro ddu fàghere su situ ligadu depet cuntènnere unu ligòngiu chi torret a su profilu de MYID tuo. Su ligòngiu in su situ <strong>depet</strong> tènnere un''atributu <code>rel="me"</code>. Su testu cuntenutu in su ligòngiu no est de importu. Custu est un''esèmpiu:'
     verification: Verìfica
   webauthn_credentials:
     add: Agiunghe una crae de seguresa noa

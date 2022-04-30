@@ -2,20 +2,20 @@
 ast:
   about:
     about_hashtag_html: Estos son los barritos públicos etiquetaos con <strong>#%{hashtag}</strong>. Pues interactuar con ellos si tienes una cuenta en cualesquier parte del fediversu.
-    about_mastodon_html: 'La rede social del futuru: ¡ensin anuncios nin vixilancia, con un diseñu éticu y descentralizáu! Controla los tos datos con Mastodon.'
+    about_mastodon_html: 'La rede social del futuru: ¡ensin anuncios nin vixilancia, con un diseñu éticu y descentralizáu! Controla los tos datos con MYID.'
     about_this: Tocante a
     administered_by: 'Alministráu por:'
     api: API
     apps: Aplicaciones pa móviles
-    apps_platforms: Usa Mastodon dende Android, iOS y otres plataformes
+    apps_platforms: Usa MYID dende Android, iOS y otres plataformes
     contact: Contautu
     contact_missing: Nun s'afitó
     contact_unavailable: N/D
     discover_users: Usuarios nuevos
     documentation: Documentación
-    federation_hint_html: Con una cuenta en %{instance} vas ser a siguir a persones de cualesquier sirvidor de Mastodon y facer más coses.
+    federation_hint_html: Con una cuenta en %{instance} vas ser a siguir a persones de cualesquier sirvidor de MYID y facer más coses.
     get_apps: En preseos móviles
-    hosted_on: Mastodon ta agospiáu en %{domain}
+    hosted_on: MYID ta agospiáu en %{domain}
     learn_more: Saber más
     privacy_policy: Política de privacidá
     server_stats: 'Estadístiques del sirvidor:'
@@ -33,7 +33,7 @@ ast:
       one: usuariu
       other: usuarios
     user_count_before: Ye'l llar de
-    what_is_mastodon: "¿Qué ye Mastodon?"
+    what_is_mastodon: "¿Qué ye MYID?"
   accounts:
     featured_tags_hint: Pues destacar etiquetes específiques que van amosase equí.
     followers:
@@ -158,7 +158,7 @@ ast:
     confirmation_dialogs: Diálogos de confirmación
     discovery: Descubrición
     localization:
-      body: Mastodon tradúcenlu voluntarios,
+      body: MYID tradúcenlu voluntarios,
       guide_link_text: tol mundu pue collaborar.
     sensitive_content: Conteníu sensible
     toot_layout: Distribución de los barritos
@@ -172,7 +172,7 @@ ast:
     delete_account: Desaniciu de la cuenta
     delete_account_html: Si deseyes desaniciar la to cuenta, pues <a href="%{path}">siguir equí</a>. Va pidísete la confirmación.
     description:
-      suffix: "¡Con una cuenta, vas ser a siguir a persones, espublizar anovamientos ya intercambiar mensaxes con usuarios de cualesquier sirvidor de Mastodon y más!"
+      suffix: "¡Con una cuenta, vas ser a siguir a persones, espublizar anovamientos ya intercambiar mensaxes con usuarios de cualesquier sirvidor de MYID y más!"
     didnt_get_confirmation: "¿Nun recibiesti les instrucciones de confirmación?"
     dont_have_your_security_key: "¿Nun tienes una clave de seguranza?"
     forgot_password: "¿Escaeciesti la contraseña?"
@@ -408,7 +408,7 @@ ast:
     account_settings: Axustes de la cuenta
     appearance: Aspeutu
     authorized_apps: Aplicaciones autorizaes
-    back: Volver a Mastodon
+    back: Volver a MYID
     development: Desendolcu
     edit_profile: Editar el perfil
     export: Esportación de datos
@@ -469,7 +469,7 @@ ast:
     does_not_match_previous_name: nun concasa col nome anterior
   themes:
     contrast: Contraste altu
-    default: Mastodon
+    default: MYID
     mastodon-light: Claridá
   two_factor_authentication:
     disable: Desactivar
@@ -490,7 +490,7 @@ ast:
         suspend: Cuenta suspendida
     welcome:
       full_handle_hint: Esto ye lo que-yos diríes a los collacios pa que puean unviate mensaxes o siguite dende otra instancia.
-      subject: Afáyate en Mastodon
+      subject: Afáyate en MYID
       tips: Conseyos
   users:
     follow_limit_reached: Nun pues siguir a más de %{limit} persones

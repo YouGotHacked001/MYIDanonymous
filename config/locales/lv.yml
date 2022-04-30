@@ -2,26 +2,26 @@
 lv:
   about:
     about_hashtag_html: Šīs ir publiskas ziņas, kas atzīmētas ar <strong>#%{hashtag}</strong>. Tu vari mijiedarboties ar tām, ja tev ir konts jebkurā federācijas vietnē.
-    about_mastodon_html: 'Nākotnes sociālais tīkls: bez reklāmām, bez korporatīvās uzraudzības, ētisks dizains un decentralizācija! Pārvaldi savus datus ar Mastodon!'
+    about_mastodon_html: 'Nākotnes sociālais tīkls: bez reklāmām, bez korporatīvās uzraudzības, ētisks dizains un decentralizācija! Pārvaldi savus datus ar MYID!'
     about_this: Par
     active_count_after: aktīvs
     active_footnote: Ikmēneša aktīvie lietotāji (IAL)
     administered_by: 'Administrē:'
     api: API
     apps: Mobilās lietotnes
-    apps_platforms: Lieto Mastodon iOS, Android un citās platformās
+    apps_platforms: Lieto MYID iOS, Android un citās platformās
     browse_directory: Pārlūko profila direktoriju un atlasi pēc interesēm
     browse_local_posts: Pārlūko publisko ziņu straumi no šī servera
-    browse_public_posts: Pārlūko publisko ziņu straumi no Mastodon
+    browse_public_posts: Pārlūko publisko ziņu straumi no MYID
     contact: Kontakts
     contact_missing: Nav uzstādīts
     contact_unavailable: N/A
     continue_to_web: Pārej uz tīmekļa lietotni
     discover_users: Atklāj lietotājus
     documentation: Dokumentācija
-    federation_hint_html: Izmantojot kontu vietnē %{instance}, varēsi sekot cilvēkiem jebkurā Mastodon serverī un ārpus tā.
+    federation_hint_html: Izmantojot kontu vietnē %{instance}, varēsi sekot cilvēkiem jebkurā MYID serverī un ārpus tā.
     get_apps: Izmēģini mobilo lietotni
-    hosted_on: Mastodon mitināts %{domain}
+    hosted_on: MYID mitināts %{domain}
     instance_actor_flash: |
       Šis konts ir virtuāls aktieris, ko izmanto, lai pārstāvētu pašu serveri, nevis atsevišķu lietotāju.
       To izmanto apvienošanas nolūkos, un to nedrīkst bloķēt, ja vien nevēlies bloķēt visu instanci, un tādā gadījumā tev jāizmanto domēna bloķēšana.
@@ -30,7 +30,7 @@ lv:
     logout_before_registering: Tu jau esi pieteicies.
     privacy_policy: Privātuma politika
     rules: Servera noteikumi
-    rules_html: 'Tālāk ir sniegts noteikumu kopsavilkums, kas jāievēro, ja vēlies izveidot kontu šajā Mastodon serverī:'
+    rules_html: 'Tālāk ir sniegts noteikumu kopsavilkums, kas jāievēro, ja vēlies izveidot kontu šajā MYID serverī:'
     see_whats_happening: Redzēt, kas notiek
     server_stats: 'Servera statistika:'
     source_code: Pirmkods
@@ -51,13 +51,13 @@ lv:
       silenced_title: Ierobežoti serveri
       suspended: 'Nekādi dati no šiem serveriem netiks apstrādāti, uzglabāti vai apmainīti, padarot neiespējamu jebkādu mijiedarbību vai saziņu ar lietotājiem no šiem serveriem:'
       suspended_title: Apturēti serveri
-    unavailable_content_html: Mastodon parasti ļauj apskatīt saturu un mijiedarboties ar lietotājiem no jebkura cita federācijas servera. Šie ir izņēmumi, kas veikti šajā konkrētajā serverī.
+    unavailable_content_html: MYID parasti ļauj apskatīt saturu un mijiedarboties ar lietotājiem no jebkura cita federācijas servera. Šie ir izņēmumi, kas veikti šajā konkrētajā serverī.
     user_count_after:
       one: lietotājs
       other: lietotāji
       zero: lietotājI
     user_count_before: Mājās uz
-    what_is_mastodon: Kas ir Mastodon?
+    what_is_mastodon: Kas ir MYID?
   accounts:
     choices_html: "%{name} izvēles:"
     endorsements_hint: Jūs varat apstiprināt cilvēkus, kuriem sekojat no tīmekļa saskarnes, un viņi tiks parādīti šeit.
@@ -725,13 +725,13 @@ lv:
         desc_html: Parāda personāla emblēmu lietotāja lapā
         title: Parādīt personāla emblēmu
       site_description:
-        desc_html: Ievadpunkts par API. Apraksti, kas padara šo Mastodon serveri īpašu, un jebko citu svarīgu. Vari izmantot HTML tagus, jo īpaši <code>&lt;a&gt;</code> un <code>&lt;em&gt;</code>.
+        desc_html: Ievadpunkts par API. Apraksti, kas padara šo MYID serveri īpašu, un jebko citu svarīgu. Vari izmantot HTML tagus, jo īpaši <code>&lt;a&gt;</code> un <code>&lt;em&gt;</code>.
         title: Servera apraksts
       site_description_extended:
         desc_html: Laba vieta tavam rīcības kodeksam, noteikumiem, vadlīnijām un citām lietām, kas atšķir tavu serveri. Tu vari izmantot HTML tagus
         title: Pielāgota paplašināta informācija
       site_short_description:
-        desc_html: Tiek parādīts sānjoslā un metatagos. Vienā rindkopā apraksti, kas ir Mastodon un ar ko šis serveris ir īpašs.
+        desc_html: Tiek parādīts sānjoslā un metatagos. Vienā rindkopā apraksti, kas ir MYID un ar ko šis serveris ir īpašs.
         title: Īss servera apraksts
       site_terms:
         desc_html: Tu vari uzrakstīt savu privātuma politiku, pakalpojumu sniegšanas noteikumus vai citu likumīgu. Tu vari izmantot HTML tagus
@@ -899,8 +899,8 @@ lv:
     confirmation_dialogs: Apstiprināšanas dialogi
     discovery: Atklājums
     localization:
-      body: Mastodon ir tulkojuši brīvprātīgie.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYID ir tulkojuši brīvprātīgie.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Ikviens var piedalīties.
     sensitive_content: Sensitīvs saturs
     toot_layout: Ziņas izskats
@@ -927,9 +927,9 @@ lv:
     delete_account: Dzēst kontu
     delete_account_html: Ja vēlies dzēst savu kontu, tu vari <a href="%{path}">turpināt šeit</a>. Tev tiks lūgts apstiprinājums.
     description:
-      prefix_invited_by_user: "@%{name} aicina tevi pievienoties šim Mastodon serverim!"
-      prefix_sign_up: Reģistrējies Mastodon jau šodien!
-      suffix: Izmantojot kontu, tu varēsi sekot cilvēkiem, publicēt atjauninājumus un apmainīties ar ziņojumiem ar lietotājiem no jebkura Mastodon servera un daudz ko citu!
+      prefix_invited_by_user: "@%{name} aicina tevi pievienoties šim MYID serverim!"
+      prefix_sign_up: Reģistrējies MYID jau šodien!
+      suffix: Izmantojot kontu, tu varēsi sekot cilvēkiem, publicēt atjauninājumus un apmainīties ar ziņojumiem ar lietotājiem no jebkura MYID servera un daudz ko citu!
     didnt_get_confirmation: Vai nesaņēmi apstiprināšanas norādījumus?
     dont_have_your_security_key: Vai tev nav drošības atslēgas?
     forgot_password: Aizmirsi paroli?
@@ -1069,7 +1069,7 @@ lv:
       content: Atvaino, bet kaut kas mūsu pusē nogāja greizi.
       title: Šī lapa nav pareiza
     '503': Lapu nevarēja apkalpot īslaicīgas servera kļūmes dēļ.
-    noscript_html: Lai izmantotu Mastodon web lietojumu, lūdzu, iespējo JavaScript. Vai arī izmēģini kādu no <a href="%{apps_path}">vietējām lietotnēm</a> Mastodon savai platformai.
+    noscript_html: Lai izmantotu MYID web lietojumu, lūdzu, iespējo JavaScript. Vai arī izmēģini kādu no <a href="%{apps_path}">vietējām lietotnēm</a> MYID savai platformai.
   existing_username_validator:
     not_found: nevarēja atrast lokālo lietotāju ar šādu lietotājvārdu
     not_found_multiple: nevarēja atrast %{usernames}
@@ -1384,7 +1384,7 @@ lv:
       weibo: Weibo
     current_session: Pašreizējā sesija
     description: "%{browser} uz %{platform}"
-    explanation: Šīs ir tīmekļa pārlūkprogrammas, kurās pašlaik esi pieteicies savā Mastodon kontā.
+    explanation: Šīs ir tīmekļa pārlūkprogrammas, kurās pašlaik esi pieteicies savā MYID kontā.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1409,7 +1409,7 @@ lv:
     aliases: Konta aizstājvārdi
     appearance: Izskats
     authorized_apps: Autorizētās lietotnes
-    back: Atgriezties Mastodon
+    back: Atgriezties MYID
     delete: Konta dzēšana
     development: Izstrāde
     edit_profile: Rediģēt profilu
@@ -1531,7 +1531,7 @@ lv:
       <ul>
         <li><em>Konta pamatinformācija</em>: Ja tu reģistrējies šajā serverī, iespējams, tev tiks lūgts ievadīt lietotājvārdu, e-pasta adresi un paroli. Vari arī ievadīt papildu profila informāciju, piemēram, parādāmo vārdu un biogrāfiju, kā arī augšupielādēt profila attēlu un galvenes attēlu. Lietotājvārds, parādāmais vārds, biogrāfija, profila attēls un galvenes attēls vienmēr ir publiski.</li>
         <li><em>Ziņas, sekošana un cita publiska informācija</em>: To personu saraksts, kurām tu seko, ir publiski pieejams, tas pats attiecas uz taviem sekotājiem. Iesniedzot ziņojumu, tiek saglabāts datums un laiks, kā arī pieteikums, no kura iesniedzi ziņojumu. Ziņojumos var būt mediju pielikumi, piemēram, attēli un videoklipi. Publiskās un nerindotās ziņas ir pieejamas publiski. Ja savā profilā ievieto ziņu, tā ir arī publiski pieejama informācija. Ziņas tiek piegādātas taviem sekotājiem, dažos gadījumos tas nozīmē, ka tās tiek piegādātas uz dažādiem serveriem un tur tiek glabātas to kopijas. Dzēšot ziņas, tas tāpat tiek piegādāts taviem sekotājiem. Atkārtota emuāra pievienošana vai citas ziņas pievienošana izlasei vienmēr ir publiskas.</li>
-        <li><em>Tiešas un tikai sekotāju ziņas</em>: Visas ziņas tiek glabātas un apstrādātas serverī. Tikai sekotājiem paredzētās ziņas tiek piegādātas taviem sekotājiem un tajās minētajiem lietotājiem, un tiešās ziņas tiek piegādātas tikai tajās minētajiem lietotājiem. Dažos gadījumos tas nozīmē, ka tās tiek piegādātas uz dažādiem serveriem un tur tiek saglabātas kopijas. Mēs godprātīgi cenšamies ierobežot piekļuvi šīm ziņām tikai pilnvarotām personām, taču citiem serveriem tas var neizdoties. Tāpēc ir svarīgi pārskatīt serverus, kuriem pieder tavi sekotāji. Iestatījumos varat manuāli pārslēgt iespēju apstiprināt un noraidīt jaunus sekotājus. <em>Lūdzu, ņemiet vērā, ka servera operatori un jebkura saņēmēja servera operatori var skatīt šādus ziņojumus</em> un adresāti var uzņemt to ekrānšāviņus, kopēt vai citādi atkārtoti kopīgot. <em>Nekopīgo nekādu sensitīvu informāciju, izmantojot Mastodon.</em></li>
+        <li><em>Tiešas un tikai sekotāju ziņas</em>: Visas ziņas tiek glabātas un apstrādātas serverī. Tikai sekotājiem paredzētās ziņas tiek piegādātas taviem sekotājiem un tajās minētajiem lietotājiem, un tiešās ziņas tiek piegādātas tikai tajās minētajiem lietotājiem. Dažos gadījumos tas nozīmē, ka tās tiek piegādātas uz dažādiem serveriem un tur tiek saglabātas kopijas. Mēs godprātīgi cenšamies ierobežot piekļuvi šīm ziņām tikai pilnvarotām personām, taču citiem serveriem tas var neizdoties. Tāpēc ir svarīgi pārskatīt serverus, kuriem pieder tavi sekotāji. Iestatījumos varat manuāli pārslēgt iespēju apstiprināt un noraidīt jaunus sekotājus. <em>Lūdzu, ņemiet vērā, ka servera operatori un jebkura saņēmēja servera operatori var skatīt šādus ziņojumus</em> un adresāti var uzņemt to ekrānšāviņus, kopēt vai citādi atkārtoti kopīgot. <em>Nekopīgo nekādu sensitīvu informāciju, izmantojot MYID.</em></li>
         <li><em>IP un citi metadati</em>: Kad tu piesakies, mēs ierakstām IP adresi, no kuras piesakies, kā arī tavu pārlūkprogrammas un/vai lietojumprogrammas nosaukumu. Visas pieteikušās sesijas ir pieejamas iestatījumos pārskatīšanai un atsaukšanai. Pēdējā izmantotā IP adrese tiek glabāta līdz 12 mēnešiem. Mēs varam arī saglabāt servera žurnālus, kuros ir iekļauta katra mūsu serverim nosūtītā pieprasījuma IP adrese.</li>
       </ul>
 
@@ -1542,7 +1542,7 @@ lv:
       <p>Jebkuru informāciju, ko mēs apkopojam par tevi, var izmantot šādos veidos:</p>
 
       <ul>
-        <li>Lai nodrošinātu Mastodon pamatfunkcionalitāti. Tu vari mijiedarboties ar citu personu saturu un izlikt savu saturu tikai tad, kad esi pieteicies. Piemēram, tu vari sekot citām personām, lai skatītu viņu apvienotās ziņas savā personalizētajā mājas laika skalā.</li>
+        <li>Lai nodrošinātu MYID pamatfunkcionalitāti. Tu vari mijiedarboties ar citu personu saturu un izlikt savu saturu tikai tad, kad esi pieteicies. Piemēram, tu vari sekot citām personām, lai skatītu viņu apvienotās ziņas savā personalizētajā mājas laika skalā.</li>
         <li>Lai palīdzētu regulēt kopienu, piemēram, salīdzinot tavu IP adresi ar citām zināmām, lai noteiktu izvairīšanos no aizlieguma vai citus pārkāpumus.</li>
         <li>Tevis norādītā e-pasta adrese var tikt izmantota, lai nosūtītu tev informāciju, paziņojumus par citām personām, kas mijiedarbojas ar tavu saturu vai sūta tev ziņojumus, kā arī atbildētu uz jautājumiem un/vai citiem pieprasījumiem vai jautājumiem.</li>
       </ul>
@@ -1560,7 +1560,7 @@ lv:
       <p>Jebkuru informāciju, ko mēs apkopojam no jums, var izmantot šādos veidos:</p>
 
       <ul>
-        <li>Lai nodrošinātu Mastodon pamatfunkcionalitāti. Jūs varat mijiedarboties ar citu personu saturu un izlikt savu saturu tikai tad, kad esat pieteicies. Piemēram, varat sekot citām personām, lai skatītu viņu apvienotās ziņas savā personalizētajā mājas laika skalā.</li>
+        <li>Lai nodrošinātu MYID pamatfunkcionalitāti. Jūs varat mijiedarboties ar citu personu saturu un izlikt savu saturu tikai tad, kad esat pieteicies. Piemēram, varat sekot citām personām, lai skatītu viņu apvienotās ziņas savā personalizētajā mājas laika skalā.</li>
         <li>Lai palīdzētu regulēt kopienu, piemēram, salīdzinot jūsu IP adresi ar citām zināmām, lai noteiktu izvairīšanos no aizlieguma vai citus pārkāpumus.</li>
         <li>Jūsu norādītā e-pasta adrese var tikt izmantota, lai nosūtītu jums informāciju, paziņojumus par citām personām, kas mijiedarbojas ar jūsu saturu vai sūta jums ziņojumus, kā arī atbildētu uz jautājumiem un/vai citiem pieprasījumiem vai jautājumiem.</li>
       </ul>
@@ -1619,9 +1619,9 @@ lv:
       <p>Sākotnēji pielāgots no <a href="https://github.com/discourse/discourse">Discourse konfidencialitātes politikas</a>.</p>
     title: "%{instance} Pakalpojuma Noteikumi un Privātuma Politika"
   themes:
-    contrast: Mastodon (Augsts kontrasts)
-    default: Mastodon (Tumšs)
-    mastodon-light: Mastodon (Gaišs)
+    contrast: MYID (Augsts kontrasts)
+    default: MYID (Tumšs)
+    mastodon-light: MYID (Gaišs)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1653,7 +1653,7 @@ lv:
       subject: Jūsu %{date} apelācija ir noraidīta
       title: Apelācija noraidīta
     backup_ready:
-      explanation: Tu pieprasīji pilnu sava Mastodon konta dublējumu. Tagad tas ir gatavs lejupielādei!
+      explanation: Tu pieprasīji pilnu sava MYID konta dublējumu. Tagad tas ir gatavs lejupielādei!
       subject: Tavs arhīvs ir gatavs lejupielādei
       title: Arhīva līdzņemšana
     sign_in_token:
@@ -1703,11 +1703,11 @@ lv:
       full_handle_hint: Šis ir tas, ko tu pasaki saviem draugiem, lai viņi varētu tev ziņot vai sekot tev no cita servera.
       review_preferences_action: Mainīt preferences
       review_preferences_step: Noteikti iestati savas preferences, piemēram, kādus e-pasta ziņojumus vēlies saņemt vai kādu konfidencialitātes līmeni vēlies iestatīt savām ziņām pēc noklusējuma. Ja tev nav kustību slimības, vari izvēlēties iespējot GIF automātisko atskaņošanu.
-      subject: Laipni lūgts Mastodon
-      tip_federated_timeline: Apvienotā ziņu lenta ir skats caur ugunsdzēsības šļūteni uz Mastodon tīklu. Bet tajā ir iekļauti tikai tie cilvēki, kurus abonē tavi kaimiņi, tāpēc tas nav pilnīgs.
+      subject: Laipni lūgts MYID
+      tip_federated_timeline: Apvienotā ziņu lenta ir skats caur ugunsdzēsības šļūteni uz MYID tīklu. Bet tajā ir iekļauti tikai tie cilvēki, kurus abonē tavi kaimiņi, tāpēc tas nav pilnīgs.
       tip_following: Pēc noklusējuma tu seko sava servera administratoram(-iem). Lai atrastu vairāk interesantu cilvēku, pārbaudi vietējās un federālās ziņu lentas.
       tip_local_timeline: Vietējā ziņu lenta ir skats caur ugunsdzēsības šļūteni uz %{instance}. Tie ir tavi tuvākie kaimiņi!
-      tip_mobile_webapp: Ja tava mobilā pārlūkprogramma piedāvā pievienot Mastodon sākuma ekrānam, vari saņemt push paziņojumus. Daudzējādi tā darbojas kā vietējā lietotne!
+      tip_mobile_webapp: Ja tava mobilā pārlūkprogramma piedāvā pievienot MYID sākuma ekrānam, vari saņemt push paziņojumus. Daudzējādi tā darbojas kā vietējā lietotne!
       tips: Padomi
       title: Laipni lūgts uz borta, %{name}!
   users:
@@ -1720,7 +1720,7 @@ lv:
     signed_in_as: 'Pierakstījies kā:'
     suspicious_sign_in_confirmation: Šķiet, ka tu iepriekš neesi pieteicies no šīs ierīces, tāpēc mēs nosūtām drošības kodu uz tavu e-pasta adresi, lai apstiprinātu, ka tas esi tu.
   verification:
-    explanation_html: 'Tu vari <strong>apstiprināt sevi kā sava profila metadatos esošo saišu īpašnieku</strong>. Lai to izdarītu, saistītajā vietnē ir jābūt saitei uz tavu Mastodon profilu. Atpakaļsaitē <strong>jābūt</strong> atribūtam <code>rel="me"</code>. Saites teksta saturam nav nozīmes. Šeit ir piemērs:'
+    explanation_html: 'Tu vari <strong>apstiprināt sevi kā sava profila metadatos esošo saišu īpašnieku</strong>. Lai to izdarītu, saistītajā vietnē ir jābūt saitei uz tavu MYID profilu. Atpakaļsaitē <strong>jābūt</strong> atribūtam <code>rel="me"</code>. Saites teksta saturam nav nozīmes. Šeit ir piemērs:'
     verification: Pārbaude
   webauthn_credentials:
     add: Pievienot jaunu drošības atslēgu

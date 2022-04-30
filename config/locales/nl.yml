@@ -1,31 +1,31 @@
 ---
 nl:
   about:
-    about_hashtag_html: Dit zijn openbare berichten die getagged zijn met <strong>#%{hashtag}</strong>. Je kunt er op reageren of iets anders mee doen als je op Mastodon (of ergens anders in de fediverse) een account hebt.
-    about_mastodon_html: Mastodon is een sociaal netwerk dat gebruikt maakt van open webprotocollen en vrije software. Het is net zoals e-mail gedecentraliseerd.
+    about_hashtag_html: Dit zijn openbare berichten die getagged zijn met <strong>#%{hashtag}</strong>. Je kunt er op reageren of iets anders mee doen als je op MYID (of ergens anders in de fediverse) een account hebt.
+    about_mastodon_html: MYID is een sociaal netwerk dat gebruikt maakt van open webprotocollen en vrije software. Het is net zoals e-mail gedecentraliseerd.
     about_this: Over deze server
     active_count_after: actief
     active_footnote: Actieve gebruikers per maand (MAU)
     administered_by: 'Beheerd door:'
     api: API
     apps: Mobiele apps
-    apps_platforms: Gebruik Mastodon op iOS, Android en op andere platformen
+    apps_platforms: Gebruik MYID op iOS, Android en op andere platformen
     browse_directory: Gebruikersgids doorbladeren en op interesses filteren
     browse_local_posts: Livestream van openbare berichten op deze server bekijken
-    browse_public_posts: Livestream van openbare Mastodonberichten bekijken
+    browse_public_posts: Livestream van openbare MYIDberichten bekijken
     contact: Contact
     contact_missing: Niet ingesteld
     contact_unavailable: n.v.t
     discover_users: Gebruikers ontdekken
     documentation: Documentatie
-    federation_hint_html: Met een account op %{instance} ben je in staat om mensen die zich op andere Mastodonservers (en op andere plekken) bevinden te volgen.
+    federation_hint_html: Met een account op %{instance} ben je in staat om mensen die zich op andere MYIDservers (en op andere plekken) bevinden te volgen.
     get_apps: Mobiele apps
-    hosted_on: Mastodon op %{domain}
+    hosted_on: MYID op %{domain}
     instance_actor_flash: "Dit account is een virtuel actor dat wordt gebruikt om de server zelf te vertegenwoordigen en is geen individuele gebruiker. Het wordt voor federatiedoeleinden gebruikt en moet niet worden geblokkeerd, tenzij je de hele server wilt blokkeren. In zo'n geval dien je echter een domeinblokkade te gebruiken. \n"
     learn_more: Meer leren
     privacy_policy: Privacybeleid
     rules: Serverregels
-    rules_html: 'Hieronder vind je een samenvatting van de regels die je op deze Mastodon-server moet opvolgen:'
+    rules_html: 'Hieronder vind je een samenvatting van de regels die je op deze MYID-server moet opvolgen:'
     see_whats_happening: Kijk wat er aan de hand is
     server_stats: 'Serverstatistieken:'
     source_code: Broncode
@@ -45,12 +45,12 @@ nl:
       silenced_title: Beperkte servers
       suspended: Je bent niet in staat om iemand van deze server te volgen, en er worden geen gegevens van deze server verwerkt of opgeslagen, en met deze server uitgewisseld.
       suspended_title: Opgeschorte servers
-    unavailable_content_html: Met Mastodon kun je in het algemeen berichten bekijken van en communiceren met gebruikers van elke andere server in de fediverse. Dit zijn de uitzonderingen die door deze server zijn gemaakt en expliciet alleen hier gelden.
+    unavailable_content_html: Met MYID kun je in het algemeen berichten bekijken van en communiceren met gebruikers van elke andere server in de fediverse. Dit zijn de uitzonderingen die door deze server zijn gemaakt en expliciet alleen hier gelden.
     user_count_after:
       one: gebruiker
       other: gebruikers
     user_count_before: Thuisbasis van
-    what_is_mastodon: Wat is Mastodon?
+    what_is_mastodon: Wat is MYID?
   accounts:
     choices_html: 'Aanbevelingen van %{name}:'
     endorsements_hint: Je kunt mensen die je volgt in de webomgeving aanbevelen, waarna ze dan hier zullen verschijnen.
@@ -542,7 +542,7 @@ nl:
       domain_blocks_rationale:
         title: Motivering tonen
       hero:
-        desc_html: Wordt op de voorpagina getoond. Tenminste 600x100px aanbevolen. Wanneer dit niet is ingesteld wordt de thumbnail van de Mastodonserver getoond
+        desc_html: Wordt op de voorpagina getoond. Tenminste 600x100px aanbevolen. Wanneer dit niet is ingesteld wordt de thumbnail van de MYIDserver getoond
         title: Hero-afbeelding
       mascot:
         desc_html: Wordt op meerdere pagina's weergegeven. Tenminste 293×205px aanbevolen. Wanneer dit niet is ingesteld wordt de standaardmascotte getoond
@@ -583,20 +583,20 @@ nl:
         title: Medewerkersbadge tonen
       site_description:
         desc_html: Introductie-alinea voor de API. Beschrijf wat er speciaal is aan deze server en andere zaken die van belang zijn. Je kan HTML gebruiken, zoals <code>&lt;a&gt;</code> en <code>&lt;em&gt;</code>.
-        title: Omschrijving Mastodonserver (API)
+        title: Omschrijving MYIDserver (API)
       site_description_extended:
         desc_html: Een goede plek voor je gedragscode, regels, richtlijnen en andere zaken die jouw server uniek maken. Je kan ook hier HTML gebruiken
-        title: Uitgebreide omschrijving Mastodonserver
+        title: Uitgebreide omschrijving MYIDserver
       site_short_description:
-        desc_html: Dit wordt gebruikt op de voorpagina, in de zijbalk op profielpagina's en als metatag in de paginabron. Beschrijf in één alinea wat Mastodon is en wat deze server speciaal maakt.
-        title: Omschrijving Mastodonserver (website)
+        desc_html: Dit wordt gebruikt op de voorpagina, in de zijbalk op profielpagina's en als metatag in de paginabron. Beschrijf in één alinea wat MYID is en wat deze server speciaal maakt.
+        title: Omschrijving MYIDserver (website)
       site_terms:
         desc_html: Je kan hier jouw eigen privacybeleid, gebruiksvoorwaarden en ander juridisch jargon kwijt. Je kan HTML gebruiken
         title: Aangepaste gebruiksvoorwaarden
-      site_title: Naam Mastodonserver
+      site_title: Naam MYIDserver
       thumbnail:
         desc_html: Gebruikt als voorvertoning voor OpenGraph en de API. 1200x630px aanbevolen
-        title: Thumbnail Mastodonserver
+        title: Thumbnail MYIDserver
       timeline_preview:
         desc_html: Toon een link naar de openbare tijdlijnpagina op de voorpagina en geef de API zonder in te loggen toegang tot de openbare tijdlijn
         title: Toegang tot de openbare tijdlijn zonder in te loggen toestaan
@@ -658,8 +658,8 @@ nl:
     confirmation_dialogs: Bevestigingen
     discovery: Ontdekken
     localization:
-      body: Mastodon wordt door vrijwilligers vertaald.
-      guide_link: https://crowdin.com/project/mastodon/nl
+      body: MYID wordt door vrijwilligers vertaald.
+      guide_link: https://crowdin.com/project/MYID/nl
       guide_link_text: Iedereen kan bijdragen.
     sensitive_content: Gevoelige inhoud
     toot_layout: Lay-out van berichten
@@ -686,9 +686,9 @@ nl:
     delete_account: Account verwijderen
     delete_account_html: Wanneer je jouw account graag wilt verwijderen, kun je dat <a href="%{path}">hier doen</a>. We vragen jou daar om een bevestiging.
     description:
-      prefix_invited_by_user: "@%{name} nodigt je hierbij uit om een account aan te maken op deze Mastodonserver!"
-      prefix_sign_up: Registreer je vandaag nog op Mastodon!
-      suffix: Met een account ben je in staat om mensen te volgen, berichten te plaatsen en uit te wisselen met mensen die zich op andere Mastodonservers bevinden en meer!
+      prefix_invited_by_user: "@%{name} nodigt je hierbij uit om een account aan te maken op deze MYIDserver!"
+      prefix_sign_up: Registreer je vandaag nog op MYID!
+      suffix: Met een account ben je in staat om mensen te volgen, berichten te plaatsen en uit te wisselen met mensen die zich op andere MYIDservers bevinden en meer!
     didnt_get_confirmation: Geen bevestigingsinstructies ontvangen?
     dont_have_your_security_key: Heb je jouw beveiligingssleutel niet bij de hand?
     forgot_password: Wachtwoord vergeten?
@@ -797,7 +797,7 @@ nl:
       content: Het spijt ons, er is aan onze kant iets fout gegaan.
       title: Er is iets mis
     '503': De pagina kon door een tijdelijke serverstoring niet worden geladen.
-    noscript_html: Schakel JavaScript in om de webapp van Mastodon te kunnen gebruiken. Als alternatief kan je een <a href="%{apps_path}">Mastodon-app</a> zoeken voor jouw platform.
+    noscript_html: Schakel JavaScript in om de webapp van MYID te kunnen gebruiken. Als alternatief kan je een <a href="%{apps_path}">MYID-app</a> zoeken voor jouw platform.
   existing_username_validator:
     not_found: Kon geen lokale gebruiker met die gebruikersnaam vinden
     not_found_multiple: Kon %{usernames} niet vinden
@@ -891,7 +891,7 @@ nl:
       one: 1 keer
       other: "%{count} keer"
     max_uses_prompt: Onbeperkt
-    prompt: Genereer en deel speciale links om mensen toegang tot deze Mastodonserver te geven
+    prompt: Genereer en deel speciale links om mensen toegang tot deze MYIDserver te geven
     table:
       expires_at: Verloopt op
       uses: Aantal keer te gebruiken
@@ -1087,7 +1087,7 @@ nl:
       weibo: Weibo
     current_session: Huidige sessie
     description: "%{browser} op %{platform}"
-    explanation: Dit zijn de webbrowsers die momenteel met jouw Mastodonaccount zijn ingelogd.
+    explanation: Dit zijn de webbrowsers die momenteel met jouw MYIDaccount zijn ingelogd.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1111,7 +1111,7 @@ nl:
     aliases: Accountaliassen
     appearance: Uiterlijk
     authorized_apps: Geautoriseerde apps
-    back: Terug naar Mastodon
+    back: Terug naar MYID
     delete: Account verwijderen
     development: Ontwikkelaars
     edit_profile: Profiel bewerken
@@ -1198,7 +1198,7 @@ nl:
       <p>Any of the information we collect from you may be used in the following ways:</p>
 
       <ul>
-      <li>To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
+      <li>To provide the core functionality of MYID. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
       <li>To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.</li>
       <li>The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.</li>
       </ul>
@@ -1263,9 +1263,9 @@ nl:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: Gebruiksvoorwaarden en privacybeleid van %{instance}
   themes:
-    contrast: Mastodon (hoog contrast)
-    default: Mastodon (donker)
-    mastodon-light: Mastodon (licht)
+    contrast: MYID (hoog contrast)
+    default: MYID (donker)
+    mastodon-light: MYID (licht)
   time:
     formats:
       default: "%d %B %Y om %H:%M"
@@ -1287,7 +1287,7 @@ nl:
     webauthn: Beveiligingssleutels
   user_mailer:
     backup_ready:
-      explanation: Je hebt een volledige back-up van jouw Mastodon-account opgevraagd. Het staat nu klaar om te worden gedownload!
+      explanation: Je hebt een volledige back-up van jouw MYID-account opgevraagd. Het staat nu klaar om te worden gedownload!
       subject: Jouw archief staat klaar om te worden gedownload
       title: Archief ophalen
     sign_in_token:
@@ -1313,15 +1313,15 @@ nl:
       explanation: Hier zijn enkele tips om je op weg te helpen
       final_action: Begin berichten te plaatsen
       final_step: 'Begin berichten te plaatsen! Zelfs zonder volgers kunnen jouw openbare berichten door anderen gezien worden, bijvoorbeeld op de lokale tijdlijn en via hashtags. Je wilt jezelf misschien introduceren met de hashtag #introductions.'
-      full_handle: Jouw volledige Mastodonadres
-      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jouw berichten kunnen sturen of (vanaf een andere Mastodonserver) kunnen volgen.
+      full_handle: Jouw volledige MYIDadres
+      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jouw berichten kunnen sturen of (vanaf een andere MYIDserver) kunnen volgen.
       review_preferences_action: Instellingen veranderen
       review_preferences_step: Zorg dat je jouw instellingen naloopt, zoals welke e-mails je wilt ontvangen of voor wie jouw berichten standaard zichtbaar moeten zijn. Wanneer je geen last hebt van bewegende beelden, kun je het afspelen van geanimeerde GIF's inschakelen.
-      subject: Welkom op Mastodon
-      tip_federated_timeline: De globale tijdlijn toont berichten in het Mastodonnetwerk. Het bevat echter alleen berichten van mensen waar jouw buren mee zijn verbonden, dus het is niet compleet.
-      tip_following: Je volgt standaard de beheerder(s) van jouw Mastodonserver. Bekijk de lokale en de globale tijdlijnen om meer interessante mensen te vinden.
+      subject: Welkom op MYID
+      tip_federated_timeline: De globale tijdlijn toont berichten in het MYIDnetwerk. Het bevat echter alleen berichten van mensen waar jouw buren mee zijn verbonden, dus het is niet compleet.
+      tip_following: Je volgt standaard de beheerder(s) van jouw MYIDserver. Bekijk de lokale en de globale tijdlijnen om meer interessante mensen te vinden.
       tip_local_timeline: De lokale tijdlijn toont berichten van mensen op %{instance}. Dit zijn jouw naaste buren!
-      tip_mobile_webapp: Wanneer jouw mobiele webbrowser Mastodon aan jouw startscherm wilt toevoegen, kun je pushmeldingen ontvangen. Het gedraagt zich op meerdere manieren als een native app!
+      tip_mobile_webapp: Wanneer jouw mobiele webbrowser MYID aan jouw startscherm wilt toevoegen, kun je pushmeldingen ontvangen. Het gedraagt zich op meerdere manieren als een native app!
       tips: Tips
       title: Welkom aan boord %{name}!
   users:
@@ -1334,7 +1334,7 @@ nl:
     signed_in_as: 'Ingelogd als:'
     suspicious_sign_in_confirmation: Het lijkt er op dat je nog niet eerder op dit apparaat bent ingelogd, dus sturen we een beveiligingscode naar jouw e-mailadres om te bevestigen dat jij het bent.
   verification:
-    explanation_html: 'Je kunt <strong>jezelf verifiëren als de eigenaar van de links in de metadata van jouw profiel</strong>. Hiervoor moet op de gelinkte website een link terug naar jouw Mastodonprofiel staan. Deze link <strong>moet</strong> het <code>rel="me"</code>-attribuut bevatten. De omschrijving van de link maakt niet uit. Hier is een voorbeeld:'
+    explanation_html: 'Je kunt <strong>jezelf verifiëren als de eigenaar van de links in de metadata van jouw profiel</strong>. Hiervoor moet op de gelinkte website een link terug naar jouw MYIDprofiel staan. Deze link <strong>moet</strong> het <code>rel="me"</code>-attribuut bevatten. De omschrijving van de link maakt niet uit. Hier is een voorbeeld:'
     verification: Verificatie
   webauthn_credentials:
     add: Nieuwe beveiligingssleutel toevoegen

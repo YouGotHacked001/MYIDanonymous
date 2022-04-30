@@ -2,24 +2,24 @@
 kk:
   about:
     about_hashtag_html: Бұл жерде <strong>#%{hashtag}</strong> хэштегімен жинақталған жазбалар. Желіге тіркеліп, сіз де қосыла аласыз бұл ортаға.
-    about_mastodon_html: Mastodon - әлеуметтік желіге негізделген, тегін және веб протоколды, ашық кодты бағдарлама. Ол email сияқты орталығы жоқ құрылым.
+    about_mastodon_html: MYID - әлеуметтік желіге негізделген, тегін және веб протоколды, ашық кодты бағдарлама. Ол email сияқты орталығы жоқ құрылым.
     about_this: Туралы
     active_count_after: актив
     active_footnote: Соңғы айдағы актив қолданушылар (MAU)
     administered_by: 'Админ:'
     apps: Мобиль қосымшалар
-    apps_platforms: iOS, Android және басқа платформалардағы Mastodon қолданыңыз
+    apps_platforms: iOS, Android және басқа платформалардағы MYID қолданыңыз
     browse_directory: Профильдер каталогын қажет фильтрлер арқылы қараңыз
     browse_local_posts: Осы желідегі ашық посттар стримын қараңыз
-    browse_public_posts: Mastodon-дағы ашық посттар стримын қараңыз
+    browse_public_posts: MYID-дағы ашық посттар стримын қараңыз
     contact: Байланыс
     contact_missing: Бапталмаған
     contact_unavailable: Белгісіз
     discover_users: Қолданушыларды іздеңіз
     documentation: Құжаттама
-    federation_hint_html: "%{instance} платформасындағы аккаунтыңыз арқылы Mastodon желісіндегі кез келген сервердегі қолданушыларға жазыла аласыз."
+    federation_hint_html: "%{instance} платформасындағы аккаунтыңыз арқылы MYID желісіндегі кез келген сервердегі қолданушыларға жазыла аласыз."
     get_apps: Мобиль қосымшаны қолданып көріңіз
-    hosted_on: Mastodon орнатылған %{domain} доменінде
+    hosted_on: MYID орнатылған %{domain} доменінде
     instance_actor_flash: |
       Бұл аккаунт кез-келген жеке пайдаланушыны емес, сервердің өзін көрсету үшін қолданылатын виртуалды актер.
       Ол федерация мақсаттарында қолданылады және сіз барлығын бұғаттағыңыз келмейінше, бұғатталмауы керек, бұл жағдайда сіз домен блогын қолданған жөн.
@@ -41,12 +41,12 @@ kk:
       rejecting_media: 'Бұл серверлердегі медиа файлдар өңделмейді немесе сақталмайды және түпнұсқаға қолмен басуды қажет ететін нобайлар көрсетілмейді:'
       silenced: 'Осы серверлердегі жазбалар жалпы уақыт кестесінде және сөйлесулерде жасырын болады және егер сіз оларды бақыламасаңыз, олардың пайдаланушыларының өзара әрекеттестігі туралы ешқандай хабарламалар жасалмайды:'
       suspended: 'Бұл серверлерден ешқандай дерек өңделмейді, сақталмайды немесе алмаспайды, бұл серверлердегі пайдаланушылармен өзара әрекеттесуді немесе байланыс орнатуды мүмкін етпейді:'
-    unavailable_content_html: Мастодон, әдетте, мазмұнды көруге және кез-келген басқа сервердегі пайдаланушылармен қарым-қатынас жасауға мүмкіндік береді. Бұл нақты серверде жасалған ерекше жағдайлар.
+    unavailable_content_html: миид, әдетте, мазмұнды көруге және кез-келген басқа сервердегі пайдаланушылармен қарым-қатынас жасауға мүмкіндік береді. Бұл нақты серверде жасалған ерекше жағдайлар.
     user_count_after:
       one: қолданушы
       other: қолданушы
     user_count_before: Желіде
-    what_is_mastodon: Mastodon деген не?
+    what_is_mastodon: MYID деген не?
   accounts:
     choices_html: "%{name} таңдаулары:"
     endorsements_hint: Сіз веб-интерфейстен адамдарға қолдау көрсете аласыз және олар осында көрсетіледі.
@@ -402,13 +402,13 @@ kk:
         desc_html: Show a staff badge on a user бет
         title: Көрсет staff badge
       site_description:
-        desc_html: Introductory paragraph on the басты бет. Describe what makes this Mastodon server special and anything else important. You can use HTML tags, in particular <code>&lt;a&gt;</code> and <code>&lt;em&gt;</code>.
+        desc_html: Introductory paragraph on the басты бет. Describe what makes this MYID server special and anything else important. You can use HTML tags, in particular <code>&lt;a&gt;</code> and <code>&lt;em&gt;</code>.
         title: Сервер туралы
       site_description_extended:
         desc_html: A good place for your code of conduct, rules, guidelines and other things that set your server apart. You can use HTML тег
         title: Custom extended ақпарат
       site_short_description:
-        desc_html: Displayed in sidebar and meta tags. Describe what Mastodon is and what makes this server special in a single paragraph. If empty, defaults to сервер description.
+        desc_html: Displayed in sidebar and meta tags. Describe what MYID is and what makes this server special in a single paragraph. If empty, defaults to сервер description.
         title: Short сервер description
       site_terms:
         desc_html: You can write your own privacy policy, terms of service or other legalese. You can use HTML тег
@@ -492,7 +492,7 @@ kk:
     description:
       prefix_invited_by_user: "@%{name} сізді Желіге қосылуға шақырады!"
       prefix_sign_up: Желіге бүгін қосылыңыз!
-      suffix: Аккаунтыңызбен сіз кез-келген Mastodon серверінен және желідегі басқа адамдарды оқып, пост жаза аласыз және хат алмаса аласыз!
+      suffix: Аккаунтыңызбен сіз кез-келген MYID серверінен және желідегі басқа адамдарды оқып, пост жаза аласыз және хат алмаса аласыз!
     didnt_get_confirmation: Растау хаты келмеді ме?
     forgot_password: Құпиясөзіңізді ұмытып қалдыңыз ба?
     invalid_reset_password_token: Құпиясөз қайтып алу қолжетімді емес немесе мерзімі аяқталған. Қайтадан сұратыңыз.
@@ -587,7 +587,7 @@ kk:
       content: Кешірерсіз, бірақ қазір бір қате пайда болып тұр.
       title: Бұл бет дұрыс емес екен
     '503': Уақытша сервер қатесі себебінен параққа қызмет көрсету мүмкін болмады.
-    noscript_html: Mastodon веб қосымшасын қолдану үшін, JavaScript қосыңыз. Болмай жатса, <a href="%{apps_path}">мына қосымшаларды</a> қосып көріңіз, Mastodon қолдану үшін.
+    noscript_html: MYID веб қосымшасын қолдану үшін, JavaScript қосыңыз. Болмай жатса, <a href="%{apps_path}">мына қосымшаларды</a> қосып көріңіз, MYID қолдану үшін.
   existing_username_validator:
     not_found: осындай логині бар бар жергілікті пайдаланушы табылмады
     not_found_multiple: табылмады %{usernames}
@@ -932,7 +932,7 @@ kk:
       <p>Any of the information we collect from you may be used in the following ways:</p>
 
       <ul>
-      <li>To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
+      <li>To provide the core functionality of MYID. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
       <li>To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.</li>
       <li>The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.</li>
       </ul>
@@ -997,9 +997,9 @@ kk:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: "%{instance} Қызмет көрсету шарттары және Құпиялылық саясаты"
   themes:
-    contrast: Mastodon (Жоғары контраст)
-    default: Mastodon (Қою)
-    mastodon-light: Mastodon (Ашық)
+    contrast: MYID (Жоғары контраст)
+    default: MYID (Қою)
+    mastodon-light: MYID (Ашық)
   two_factor_authentication:
     disable: Ажырату
     enabled: Екі-факторлы авторизация қосылған
@@ -1011,7 +1011,7 @@ kk:
     recovery_instructions_html: Егер сіз телефонға кіруді жоғалтсаңыз, тіркелгіңізге кіру үшін төмендегі қалпына келтіру кодтарының бірін пайдалануға болады. <strong>Қалпына келтіру кодтарын қауіпсіз ұстаңыз </strong>. Мысалы, оларды басып шығарып, оларды басқа маңызды құжаттармен сақтауға болады.
   user_mailer:
     backup_ready:
-      explanation: Сіз Mastodon аккаунтыңыздың толық мұрағатын сұрадыңыз. Қазір жүктеуге дайын!
+      explanation: Сіз MYID аккаунтыңыздың толық мұрағатын сұрадыңыз. Қазір жүктеуге дайын!
       subject: Мұрағатыңыз түсіріп алуға дайын
       title: Мұрағатты алу
     warning:
@@ -1035,11 +1035,11 @@ kk:
       full_handle_hint: This is what you would tell your friends so they can message or follow you frоm another server.
       review_preferences_action: Таңдауларды өзгерту
       review_preferences_step: Қандай хат-хабарларын алуды қалайтыныңызды немесе сіздің хабарламаларыңыздың қандай құпиялылық деңгейін алғыңыз келетінін анықтаңыз. Сондай-ақ, сіз GIF автоматты түрде ойнату мүмкіндігін қосуды таңдай аласыз.
-      subject: Mastodon Желісіне қош келдіңіз
-      tip_federated_timeline: Жаһандық желі - Mastodon желісінің негізгі құндылығы.
+      subject: MYID Желісіне қош келдіңіз
+      tip_federated_timeline: Жаһандық желі - MYID желісінің негізгі құндылығы.
       tip_following: Сіз бірден желі админіне жазылған болып саналасыз. Басқа адамдарға жазылу үшін жергілікті және жаһандық желіні шолып шығыңыз.
       tip_local_timeline: Жерігілкті желіде маңайыздағы адамдардың белсенділігін көре аласыз %{instance}. Олар - негізгі көршілеріңіз!
-      tip_mobile_webapp: Мобиль браузеріңіз Mastodon желісін бастапқы бетке қосуды ұсынса, қабылдаңыз. Ескертпелер де шығатын болады. Арнайы қосымша сияқты бұл!
+      tip_mobile_webapp: Мобиль браузеріңіз MYID желісін бастапқы бетке қосуды ұсынса, қабылдаңыз. Ескертпелер де шығатын болады. Арнайы қосымша сияқты бұл!
       tips: Кеңестер
       title: Ортаға қош келдің, %{name}!
   users:
@@ -1049,5 +1049,5 @@ kk:
     seamless_external_login: Сыртқы сервис арқылы кіріпсіз, сондықтан құпиясөз және электрондық пошта параметрлері қол жетімді емес.
     signed_in_as: 'Былай кірдіңіз:'
   verification:
-    explanation_html: 'Өзіңіздің профиль метадеректеріңіздегі сілтемелердің иесі ретінде өзіңізді <strong>тексере аласыз</strong>. Ол үшін байланыстырылған веб-сайтта Mastodon профиліне <strong>сілтеме болуы керек. </strong> Сілтемеде <code>rel = «me»</code> атрибуты болуы керек. Сілтеме мәтінінің мазмұны маңызды емес. Міне мысал:'
+    explanation_html: 'Өзіңіздің профиль метадеректеріңіздегі сілтемелердің иесі ретінде өзіңізді <strong>тексере аласыз</strong>. Ол үшін байланыстырылған веб-сайтта MYID профиліне <strong>сілтеме болуы керек. </strong> Сілтемеде <code>rel = «me»</code> атрибуты болуы керек. Сілтеме мәтінінің мазмұны маңызды емес. Міне мысал:'
     verification: Растау

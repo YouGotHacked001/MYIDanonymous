@@ -481,7 +481,7 @@ kab:
   appearance:
     discovery: Asnirem
     localization:
-      guide_link: https://crowdin.com/project/mastodon
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Yal yiwen·t y·tezmer a ttekki.
     sensitive_content: Agbur amḥulfu
   application_mailer:
@@ -499,7 +499,7 @@ kab:
     checkbox_agreement_without_rules_html: Qebleγ <a href="%{terms_path}" target="_blank">tiwtilin n useqdec</a>
     delete_account: Kkes amiḍan
     description:
-      prefix_invited_by_user: "@%{name} inced-ik·ikem ad ternuḍ ɣer uqeddac-a n Mastodon!"
+      prefix_invited_by_user: "@%{name} inced-ik·ikem ad ternuḍ ɣer uqeddac-a n MYID!"
       prefix_sign_up: Zeddi di Maṣṭudun assa!
     forgot_password: Tettud awal-ik uffir?
     log_in_with: Qqen s

@@ -2,26 +2,26 @@
 fa:
   about:
     about_hashtag_html: این‌ها نوشته‌های عمومی هستند که برچسب (هشتگ) <strong>#%{hashtag}</strong> را دارند. اگر شما روی هر کارسازی حساب داشته باشید می‌توانید به این نوشته‌ها واکنش نشان دهید.
-    about_mastodon_html: 'شبکهٔ اجتماعی آینده: بدون تبلیغات، بدون شنود از طرف شرکت‌ها، طراحی اخلاق‌مدار، و معماری غیرمتمرکز! با ماستودون صاحب داده‌های خودتان باشید!'
+    about_mastodon_html: 'شبکهٔ اجتماعی آینده: بدون تبلیغات، بدون شنود از طرف شرکت‌ها، طراحی اخلاق‌مدار، و معماری غیرمتمرکز! با شناسه ی من صاحب داده‌های خودتان باشید!'
     about_this: درباره
     active_count_after: فعّال
     active_footnote: کاربران فعّال ماهانه
     administered_by: 'به مدیریت:'
     api: رابط برنامه‌نویسی کاربردی
     apps: اپ‌های موبایل
-    apps_platforms: ماستودون را در iOS، اندروید، و سایر سیستم‌ها داشته باشید
+    apps_platforms: شناسه ی من را در iOS، اندروید، و سایر سیستم‌ها داشته باشید
     browse_directory: شاخهٔ نمایه‌ای را مرور کرده و بر حسب علاقه، بپالایید
     browse_local_posts: جریانی زنده از فرسته‌های عمومی این کارساز را ببینید
-    browse_public_posts: جریانی زنده از فرسته‌های عمومی روی ماستودون را ببینید
+    browse_public_posts: جریانی زنده از فرسته‌های عمومی روی شناسه ی من را ببینید
     contact: تماس
     contact_missing: تنظیم نشده
     contact_unavailable: موجود نیست
     continue_to_web: در کارهٔ وب ادامه دهید
     discover_users: یافتن کاربران
     documentation: مستندات
-    federation_hint_html: با حسابی روی %{instance} می‌توانید افراد روی هر کارساز ماستودون و بیش از آن را پی بگیرید.
+    federation_hint_html: با حسابی روی %{instance} می‌توانید افراد روی هر کارساز شناسه ی من و بیش از آن را پی بگیرید.
     get_apps: یک اپ موبایل را بیازمایید
-    hosted_on: ماستودون، میزبانی‌شده روی %{domain}
+    hosted_on: شناسه ی من، میزبانی‌شده روی %{domain}
     instance_actor_flash: |
       این حساب، بازیگری مجازی به نمایندگی خود کارساز بوده و کاربری واقعی نیست.
       این حساب برای مقاصد خودگردانی به کار می‌رفته و نباید مسدود شود؛ مگر این که بخواهید کل نمونه را مسدود کنید که در آن صورت نیز باید از انسداد دامنه استفاده کنید.
@@ -30,7 +30,7 @@ fa:
     logout_before_registering: شما هم‌اکنون وارد شده‌اید.
     privacy_policy: سیاست رازداری
     rules: قوانین کارساز
-    rules_html: 'در زیر خلاصه‌ای از قوانینی که در صورت علاقه به داشتن حسابی روی این کارساز ماستودون، باید رعایت کنید آمده است:'
+    rules_html: 'در زیر خلاصه‌ای از قوانینی که در صورت علاقه به داشتن حسابی روی این کارساز شناسه ی من، باید رعایت کنید آمده است:'
     see_whats_happening: ببینید چه خبر است
     server_stats: 'آمار کارساز:'
     source_code: کدهای منبع
@@ -50,15 +50,15 @@ fa:
       silenced_title: کارسازهای خموش
       suspended: 'هیچ داده‌ای از این کارسازها پردازش، ذخیره یا مبادله نخواهد شد، که هرگونه برهم‌کنش یا ارتباط با کاربران این کارسازها را غیرممکن خواهد کرد:'
       suspended_title: کارسازهای معلّق
-    unavailable_content_html: ماستودون عموماً می‌گذارد محتوا را از از هر کارساز دیگری در دنیای شبکه‌های اجتماعی غیرمتمرکز دیده و با آنان برهم‌کنش داشته باشید. این‌ها استثناهایی هستند که روی این کارساز خاص وضع شده‌اند.
+    unavailable_content_html: شناسه ی من عموماً می‌گذارد محتوا را از از هر کارساز دیگری در دنیای شبکه‌های اجتماعی غیرمتمرکز دیده و با آنان برهم‌کنش داشته باشید. این‌ها استثناهایی هستند که روی این کارساز خاص وضع شده‌اند.
     user_count_after:
       one: کاربر
       other: کاربر
     user_count_before: میزبان
-    what_is_mastodon: ماستودون چیست؟
+    what_is_mastodon: شناسه ی من چیست؟
   accounts:
     choices_html: 'انتخاب‌های %{name}:'
-    endorsements_hint: شما می‌توانید از محیط وب ماستودون، کسانی را که پی می‌گیرید به دیگران هم پیشنهاد دهید تا این‌جا نشان داده شوند.
+    endorsements_hint: شما می‌توانید از محیط وب شناسه ی من، کسانی را که پی می‌گیرید به دیگران هم پیشنهاد دهید تا این‌جا نشان داده شوند.
     featured_tags_hint: می‌توانید برچسب‌های خاصی را مشخّص کنید تا این‌جا دیده شوند.
     follow: پیگیری
     followers:
@@ -601,7 +601,7 @@ fa:
         email: ایمیل کاری
         username: نام کاربری
       custom_css:
-        desc_html: ظاهر ماستودون را با CSS-ای که در همهٔ صفحه‌ها جاسازی می‌شود تغییر دهید
+        desc_html: ظاهر شناسه ی من را با CSS-ای که در همهٔ صفحه‌ها جاسازی می‌شود تغییر دهید
         title: سبک CSS سفارشی
       default_noindex:
         desc_html: روی همهٔ کاربرانی که این تنظیم را خودشان تغییر نداده‌اند تأثیر می‌گذارد
@@ -654,13 +654,13 @@ fa:
         desc_html: نمایش علامت همکار روی صفحهٔ کاربر
         title: نمایش علامت همکار
       site_description:
-        desc_html: معرفی کوتاهی دربارهٔ رابط برنامه‌نویسی کاربردی. دربارهٔ این که چه چیزی دربارهٔ این سرور ماستدون ویژه است یا هر چیز مهم دیگری بنویسید. می‌توانید HTML بنویسید، به‌ویژه <code>&lt;a&gt;</code> و <code>&lt;em&gt;</code>.
+        desc_html: معرفی کوتاهی دربارهٔ رابط برنامه‌نویسی کاربردی. دربارهٔ این که چه چیزی دربارهٔ این سرور هويتي ویژه است یا هر چیز مهم دیگری بنویسید. می‌توانید HTML بنویسید، به‌ویژه <code>&lt;a&gt;</code> و <code>&lt;em&gt;</code>.
         title: دربارهٔ این سرور
       site_description_extended:
         desc_html: جای خوبی برای نوشتن سیاست‌های کاربری، قانون‌ها، راهنماها، و هر چیزی که ویژهٔ این سرور است. تگ‌های HTML هم مجاز است
         title: اطلاعات تکمیلی سفارشی
       site_short_description:
-        desc_html: روی نوار کناری و همچنین به عنوان فرادادهٔ صفحه‌ها نمایش می‌یابد. در یک بند توضیح دهید که ماستدون چیست و چرا این سرور با بقیه فرق دارد.
+        desc_html: روی نوار کناری و همچنین به عنوان فرادادهٔ صفحه‌ها نمایش می‌یابد. در یک بند توضیح دهید که هويتي چیست و چرا این سرور با بقیه فرق دارد.
         title: توضیح کوتاه دربارهٔ سرور
       site_terms:
         desc_html: می‌توانید سیاست رازداری، شرایط استفاده، یا سایر مسائل قانونی را به دلخواه خود بنویسید. تگ‌های HTML هم مجاز است
@@ -773,8 +773,8 @@ fa:
     confirmation_dialogs: پیغام‌های تأیید
     discovery: کاوش
     localization:
-      body: ماستودون توسط داوطلبان ترجمه شده است.
-      guide_link: https://crowdin.com/project/mastodon
+      body: شناسه ی من توسط داوطلبان ترجمه شده است.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: همه می‌توانند کمک کنند.
     sensitive_content: محتوای حساس
     toot_layout: آرایش فرسته
@@ -801,9 +801,9 @@ fa:
     delete_account: پاک‌کردن حساب
     delete_account_html: اگر می‌خواهید حساب خود را پاک کنید، از <a href="%{path}">این‌جا</a> پیش بروید. از شما درخواست تأیید خواهد شد.
     description:
-      prefix_invited_by_user: "@%{name} شما را به عضویت در این کارساز ماستودون دعوت کرده است!"
-      prefix_sign_up: همین امروز عضو ماستودون شوید!
-      suffix: با داشتن حساب می‌توانید دیگران را پی بگیرید، نوشته‌های تازه منتشر کنید، و با کاربران دیگر از هر سرور ماستودون دیگری و حتی سرورهای دیگر در ارتباط باشید!
+      prefix_invited_by_user: "@%{name} شما را به عضویت در این کارساز شناسه ی من دعوت کرده است!"
+      prefix_sign_up: همین امروز عضو شناسه ی من شوید!
+      suffix: با داشتن حساب می‌توانید دیگران را پی بگیرید، نوشته‌های تازه منتشر کنید، و با کاربران دیگر از هر سرور شناسه ی من دیگری و حتی سرورهای دیگر در ارتباط باشید!
     didnt_get_confirmation: راهنمایی برای تأیید را دریافت نکردید؟
     dont_have_your_security_key: کلید امنیتیتان را ندارید؟
     forgot_password: رمزتان را گم کرده‌اید؟
@@ -925,7 +925,7 @@ fa:
       content: شرمنده، یک چیزی از سمت ما اشتباه شده.
       title: این صفحه درست نیست
     '503': این صفحه به خاطر یک مشکل موقت در کارساز در دسترس نیست.
-    noscript_html: برای استفاده از نسخهٔ تحت وب ماستودون، لطفاً جاوااسکریپت را فعال کنید. یا به جایش می‌توانید <a href="%{apps_path}">یک اپ ماستدون</a> را به‌کار ببرید.
+    noscript_html: برای استفاده از نسخهٔ تحت وب شناسه ی من، لطفاً جاوااسکریپت را فعال کنید. یا به جایش می‌توانید <a href="%{apps_path}">یک اپ هويتي</a> را به‌کار ببرید.
   existing_username_validator:
     not_found: کاربری با این نام کاربری در این کارساز پیدا نشد
     not_found_multiple: "%{usernames} پیدا نشد"
@@ -1253,7 +1253,7 @@ fa:
     aliases: نام‌های مستعار
     appearance: نما
     authorized_apps: برنامه‌های مجاز
-    back: بازگشت به ماستودون
+    back: بازگشت به شناسه ی من
     delete: پاک‌کردن حساب
     development: فرابری
     edit_profile: ویرایش نمایه
@@ -1376,7 +1376,7 @@ fa:
       <p>Any of the information we collect from you may be used in the following ways:</p>
 
       <ul>
-      <li>To provide the core functionality of Mastodon. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
+      <li>To provide the core functionality of MYID. You can only interact with other people's content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.</li>
       <li>To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.</li>
       <li>The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.</li>
       </ul>
@@ -1441,9 +1441,9 @@ fa:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: شرایط استفاده و سیاست رازداری %{instance}
   themes:
-    contrast: ماستودون (سایه‌روشن بالا)
-    default: ماستودون (تیره)
-    mastodon-light: ماستودون (روشن)
+    contrast: شناسه ی من (سایه‌روشن بالا)
+    default: شناسه ی من (تیره)
+    mastodon-light: شناسه ی من (روشن)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
@@ -1511,11 +1511,11 @@ fa:
       full_handle_hint: این چیزی است که باید به دوستانتان بگویید تا بتوانند از کارسازی دیگر به شما پیام داده یا پی‌گیرتان شوند.
       review_preferences_action: تغییر ترجیحات
       review_preferences_step: با رفتن به صفحهٔ ترجیحات می‌توانید چیزهای گوناگونی را تنظیم کنید. مثلاً این که چه ایمیل‌های آگاه‌سازی‌ای به شما فرستاده شود، یا حریم خصوصی پیش‌فرض نوشته‌هایتان چه باشد. اگر بیماری سفر (حالت تهوع بر اثر دیدن اجسام متحرک) ندارید، می‌توانید پخش خودکار ویدیوها را فعال کنید.
-      subject: به ماستودون خوش آمدید
-      tip_federated_timeline: "«فهرست نوشته‌های همه‌جا» نمایی کلی از شبکهٔ ماستودون است. ولی فقط شامل افرادیست که همسایگانتان پیگیرشان هستند؛ پس کامل نیست."
+      subject: به شناسه ی من خوش آمدید
+      tip_federated_timeline: "«فهرست نوشته‌های همه‌جا» نمایی کلی از شبکهٔ شناسه ی من است. ولی فقط شامل افرادیست که همسایگانتان پیگیرشان هستند؛ پس کامل نیست."
       tip_following: به طور پیش‌گزیده مدیر(ان) کارسازتان را پی می‌گیرید. برای یافتن افراد جالب دیگر، فهرست «نوشته‌های محلی» و «نوشته‌های همه‌جا» را ببینید.
       tip_local_timeline: فهرست نوشته‌های محلی نمایی کلی از کاربران روی %{instance} را ارائه می‌دهد. این‌ها همسایه‌های شما هستند!
-      tip_mobile_webapp: اگر مرورگر همراهتان پیشنهاد افزودن ماستودون به صفحهٔ اصلیتان را می‌دهد، می‌توانید آگاهی‌های ارسالی را دریافت کنید. این کار از بسیاری جهت‌ها،‌مانند یک کارهٔ بومی عمل می‌کند!
+      tip_mobile_webapp: اگر مرورگر همراهتان پیشنهاد افزودن شناسه ی من به صفحهٔ اصلیتان را می‌دهد، می‌توانید آگاهی‌های ارسالی را دریافت کنید. این کار از بسیاری جهت‌ها،‌مانند یک کارهٔ بومی عمل می‌کند!
       tips: نکته‌ها
       title: خوش آمدید، کاربر %{name}!
   users:
@@ -1528,7 +1528,7 @@ fa:
     signed_in_as: 'واردشده به نام:'
     suspicious_sign_in_confirmation: به نظر می‌رسد پیش‌تر از این افزاره وارد نشده بودید و مدتی می‌شود که وارد نشده‌اید. داریم برای تأیید، یک رمز امنیتی به نشانی رایانامه‌تان می‌فرستیم.
   verification:
-    explanation_html: 'شما می‌توانید <strong>خود را به عنوان مالک صفحه‌ای که در نمایه‌تان به آن پیوند داده‌اید تأیید کنید.</strong> برای این کار، صفحه‌ای که به آن پیوند داده‌اید، خودش باید پیوندی به نمایهٔ ماستودون شما داشته باشد. پیوند در آن صفحه <strong>باید</strong> عبارت <code>rel="me"‎</code> را به عنوان مشخّصهٔ (attribute) در خود داشته باشد. محتوای متن پیوند اهمتی ندارد. یک نمونه از چنین پیوندی:'
+    explanation_html: 'شما می‌توانید <strong>خود را به عنوان مالک صفحه‌ای که در نمایه‌تان به آن پیوند داده‌اید تأیید کنید.</strong> برای این کار، صفحه‌ای که به آن پیوند داده‌اید، خودش باید پیوندی به نمایهٔ شناسه ی من شما داشته باشد. پیوند در آن صفحه <strong>باید</strong> عبارت <code>rel="me"‎</code> را به عنوان مشخّصهٔ (attribute) در خود داشته باشد. محتوای متن پیوند اهمتی ندارد. یک نمونه از چنین پیوندی:'
     verification: تأیید
   webauthn_credentials:
     add: افزودن کلید امنیتی

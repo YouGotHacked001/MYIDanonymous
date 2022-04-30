@@ -2,26 +2,26 @@
 fi:
   about:
     about_hashtag_html: Nämä julkiset julkaisut on merkitty hastagilla <strong>#%{hashtag}</strong>. Voit vastata niihin, jos sinulla on tili jossain päin fediversumia.
-    about_mastodon_html: 'Tulevaisuuden sosiaalinen verkosto: Ei mainoksia, ei valvontaa, toteutettu avoimilla protokollilla ja hajautettu! Pidä tietosi ominasi Mastodonilla!'
+    about_mastodon_html: 'Tulevaisuuden sosiaalinen verkosto: Ei mainoksia, ei valvontaa, toteutettu avoimilla protokollilla ja hajautettu! Pidä tietosi ominasi MYIDilla!'
     about_this: Tietoa tästä palvelimesta
     active_count_after: aktiivista
     active_footnote: Kuukausittain aktiiviset käyttäjät (MAU)
     administered_by: 'Ylläpitäjä:'
     api: Rajapinta
     apps: Mobiilisovellukset
-    apps_platforms: Käytä Mastodonia Androidilla, iOS:llä ja muilla alustoilla
+    apps_platforms: Käytä MYIDia Androidilla, iOS:llä ja muilla alustoilla
     browse_directory: Selaa profiilihakemistoa
     browse_local_posts: Selaa julkisia julkaisuja tältä palvelimelta
-    browse_public_posts: Selaa julkisia julkaisuja Mastodonissa
+    browse_public_posts: Selaa julkisia julkaisuja MYIDissa
     contact: Ota yhteyttä
     contact_missing: Ei asetettu
     contact_unavailable: Ei saatavilla
     continue_to_web: Jatka verkkosovellukseen
     discover_users: Löydä käyttäjiä
     documentation: Dokumentaatio
-    federation_hint_html: Tilillä %{instance}:ssa voit seurata ihmisiä millä tahansa Mastodon-palvelimella ja sen ulkopuolella.
+    federation_hint_html: Tilillä %{instance}:ssa voit seurata ihmisiä millä tahansa MYID-palvelimella ja sen ulkopuolella.
     get_apps: Kokeile mobiilisovellusta
-    hosted_on: Mastodon palvelimella %{domain}
+    hosted_on: MYID palvelimella %{domain}
     instance_actor_flash: |
       Tämä on virtuaalitili, joka edustaa itse palvelinta eikä yksittäistä käyttäjää.
       Sitä käytetään yhdistämistarkoituksiin, eikä sitä saa estää, ellet halua estää koko palvelinta, jolloin sinun on käytettävä verkkotunnuksen estoa.
@@ -30,7 +30,7 @@ fi:
     logout_before_registering: Olet jo kirjautunut sisään.
     privacy_policy: Tietosuojakäytäntö
     rules: Palvelimen säännöt
-    rules_html: 'Alla on yhteenveto säännöistä, joita sinun on noudatettava, jos haluat olla tili tällä Mastodonin palvelimella:'
+    rules_html: 'Alla on yhteenveto säännöistä, joita sinun on noudatettava, jos haluat olla tili tällä MYIDin palvelimella:'
     see_whats_happening: Näe mitä tapahtuu
     server_stats: 'Palvelimen tilastot:'
     source_code: Lähdekoodi
@@ -50,12 +50,12 @@ fi:
       silenced_title: Hiljennetyt palvelimet
       suspended: 'Dataa näiltä palvelimilta ei tulla käsittelemään, tallentamaan tai jakamaan. Tämä tekee kommunikoinnin näiden käyttäjien kanssa mahdottomaksi:'
       suspended_title: Keskeytetyt palvelimet
-    unavailable_content_html: Mastodonin avulla voit yleensä tarkastella sisältöä ja olla vuorovaikutuksessa käyttäjien kanssa millä tahansa muulla palvelimella fediversessä. Nämä ovat poikkeuksia, jotka on tehty tälle palvelimelle.
+    unavailable_content_html: MYIDin avulla voit yleensä tarkastella sisältöä ja olla vuorovaikutuksessa käyttäjien kanssa millä tahansa muulla palvelimella fediversessä. Nämä ovat poikkeuksia, jotka on tehty tälle palvelimelle.
     user_count_after:
       one: käyttäjä
       other: käyttäjää
     user_count_before: Palvelimella
-    what_is_mastodon: Mikä on Mastodon?
+    what_is_mastodon: Mikä on MYID?
   accounts:
     choices_html: "%{name} valinnat:"
     endorsements_hint: Voit suositella seuraamiasi henkilöitä web käyttöliittymän kautta, ne tulevat näkymään tähän.
@@ -685,7 +685,7 @@ fi:
         desc_html: Hyvä paikka käytösohjeille, säännöille, ohjeistuksille ja muille instanssin muista erottaville asioille. HTML-tagit käytössä
         title: Omavalintaiset laajat tiedot
       site_short_description:
-        desc_html: Näytetään sivupalkissa ja kuvauksessa. Kerro yhdessä kappaleessa, mitä Mastodon on ja mikä tekee palvelimesta erityisen.
+        desc_html: Näytetään sivupalkissa ja kuvauksessa. Kerro yhdessä kappaleessa, mitä MYID on ja mikä tekee palvelimesta erityisen.
         title: Lyhyt instanssin kuvaus
       site_terms:
         desc_html: Tähän voit kirjoittaa tietosuojakäytännöistä, käyttöehdoista ja sen sellaisista asioista. Voit käyttää HTML-tageja
@@ -847,8 +847,8 @@ fi:
     confirmation_dialogs: Vahvistusvalinnat
     discovery: Löytö
     localization:
-      body: Mastodonin ovat kääntäneet vapaaehtoiset.
-      guide_link: https://crowdin.com/project/mastodon
+      body: MYIDin ovat kääntäneet vapaaehtoiset.
+      guide_link: https://crowdin.com/project/MYID
       guide_link_text: Kaikki voivat osallistua.
     sensitive_content: Arkaluontoista sisältöä
     toot_layout: Viestin asettelu
@@ -875,8 +875,8 @@ fi:
     delete_account: Poista tili
     delete_account_html: Jos haluat poistaa tilisi, <a href="%{path}">paina tästä</a>. Poisto on vahvistettava.
     description:
-      prefix_invited_by_user: "@%{name} kutsuu sinut liittymään tälle Mastodonin palvelimelle!"
-      prefix_sign_up: Liity Mastodoniin tänään!
+      prefix_invited_by_user: "@%{name} kutsuu sinut liittymään tälle MYIDin palvelimelle!"
+      prefix_sign_up: Liity MYIDiin tänään!
       suffix: Tilillä voit seurata ihmisiä, julkaista päivityksiä ja lähetellä viestejä muille käyttäjille miltä palvelimelta tahansa ja paljon muuta!
     didnt_get_confirmation: Etkö saanut vahvistusohjeita?
     dont_have_your_security_key: Eikö sinulla ole suojausavainta?
@@ -1017,7 +1017,7 @@ fi:
       content: Valitettavasti jokin meni pieleen meidän päässämme.
       title: Sivu ei ole oikein
     '503': Sivua ei voitu näyttää palvelimen väliaikaisen vian vuoksi.
-    noscript_html: Mastodon-selainsovelluksen käyttöön vaaditaan JavaScript. Voit vaihtoehtoisesti kokeilla jotakin omalle käyttöjärjestelmällesi tehtyä Mastodon<a href="%{apps_path}">sovellusta</a>.
+    noscript_html: MYID-selainsovelluksen käyttöön vaaditaan JavaScript. Voit vaihtoehtoisesti kokeilla jotakin omalle käyttöjärjestelmällesi tehtyä MYID<a href="%{apps_path}">sovellusta</a>.
   existing_username_validator:
     not_found: paikallista käyttäjää ei löydy kyseisellä käyttäjänimellä
     not_found_multiple: "%{usernames} ei löytynyt"
@@ -1328,7 +1328,7 @@ fi:
       weibo: Weibo
     current_session: Nykyinen istunto
     description: "%{browser}, %{platform}"
-    explanation: Nämä verkkoselaimet ovat tällä hetkellä kirjautuneet Mastodon-tilillesi.
+    explanation: Nämä verkkoselaimet ovat tällä hetkellä kirjautuneet MYID-tilillesi.
     ip: IP-osoite
     platforms:
       adobe_air: Adobe Air
@@ -1353,7 +1353,7 @@ fi:
     aliases: Tilin aliakset
     appearance: Ulkoasu
     authorized_apps: Valtuutetut sovellukset
-    back: Takaisin Mastodoniin
+    back: Takaisin MYIDiin
     delete: Tilin poisto
     development: Kehittäminen
     edit_profile: Muokkaa profiilia
@@ -1463,9 +1463,9 @@ fi:
   terms:
     title: "%{instance}, käyttöehdot ja tietosuojakäytäntö"
   themes:
-    contrast: Mastodon (Korkea kontrasti)
-    default: Mastodon (Tumma)
-    mastodon-light: Mastodon (Vaalea)
+    contrast: MYID (Korkea kontrasti)
+    default: MYID (Tumma)
+    mastodon-light: MYID (Vaalea)
   time:
     formats:
       default: "%d.%m.%Y klo %H.%M"
@@ -1497,7 +1497,7 @@ fi:
       subject: Valituksesi %{date} on hylätty
       title: Valitus hylätty
     backup_ready:
-      explanation: Pyysit täydellistä varmuuskopiota Mastodon-tilistäsi. Voit nyt ladata sen!
+      explanation: Pyysit täydellistä varmuuskopiota MYID-tilistäsi. Voit nyt ladata sen!
       subject: Arkisto on valmiina ladattavaksi
       title: Arkiston tallennus
     sign_in_token:
@@ -1547,11 +1547,11 @@ fi:
       full_handle_hint: Kerro tämä ystävillesi, niin he voivat lähettää sinulle viestejä tai löytää sinut toisen instanssin kautta.
       review_preferences_action: Muuta asetuksia
       review_preferences_step: Käy tarkistamassa, että asetukset ovat haluamallasi tavalla. Voit valita, missä tilanteissa haluat saada sähköpostia, mikä on julkaisujesi oletusnäkyvyys jne. Jos et saa helposti pahoinvointia, voit valita, että GIF-animaatiot toistetaan automaattisesti.
-      subject: Tervetuloa Mastodoniin
-      tip_federated_timeline: Yleinen aikajana näyttää sisältöä koko Mastodon-verkostosta. Siinä näkyvät kuitenkin vain ne henkilöt, joita oman instanssisi käyttäjät seuraavat. Siinä ei siis näytetä aivan kaikkea.
+      subject: Tervetuloa MYIDiin
+      tip_federated_timeline: Yleinen aikajana näyttää sisältöä koko MYID-verkostosta. Siinä näkyvät kuitenkin vain ne henkilöt, joita oman instanssisi käyttäjät seuraavat. Siinä ei siis näytetä aivan kaikkea.
       tip_following: Oletusarvoisesti seuraat oman palvelimesi ylläpitäjiä. Etsi lisää kiinnostavia ihmisiä paikalliselta ja yleiseltä aikajanalta.
       tip_local_timeline: Paikallinen aikajana näyttää instanssin %{instance} käyttäjien julkaisut. He ovat naapureitasi!
-      tip_mobile_webapp: Jos voit lisätä Mastodonin mobiiliselaimen kautta aloitusnäytöllesi, voit vastaanottaa push-ilmoituksia. Toiminta vastaa monin tavoin tavanomaista sovellusta!
+      tip_mobile_webapp: Jos voit lisätä MYIDin mobiiliselaimen kautta aloitusnäytöllesi, voit vastaanottaa push-ilmoituksia. Toiminta vastaa monin tavoin tavanomaista sovellusta!
       tips: Vinkkejä
       title: Tervetuloa mukaan, %{name}!
   users:
@@ -1564,7 +1564,7 @@ fi:
     signed_in_as: 'Kirjautunut henkilönä:'
     suspicious_sign_in_confirmation: Et ilmeisesti ole kirjautunut sisään tältä laitteelta aikaisemmin, joten lähetämme sähköpostiisi turvakoodin vahvistaaksesi, että se olet sinä.
   verification:
-    explanation_html: 'Voit <strong>vahvistaa itsesi profiilisi metatietojen linkkien omistajaksi.</strong>. Tätä varten linkitetyn verkkosivuston on sisällettävä linkki takaisin Mastodon -profiiliisi. Palauttavalla linkillä <strong>täytyy</strong> olla <code>rel="minä"</code> tuntomerkki. Linkin tekstisisällöllä ei ole väliä. Tässä on esimerkki:'
+    explanation_html: 'Voit <strong>vahvistaa itsesi profiilisi metatietojen linkkien omistajaksi.</strong>. Tätä varten linkitetyn verkkosivuston on sisällettävä linkki takaisin MYID -profiiliisi. Palauttavalla linkillä <strong>täytyy</strong> olla <code>rel="minä"</code> tuntomerkki. Linkin tekstisisällöllä ei ole väliä. Tässä on esimerkki:'
     verification: Vahvistus
   webauthn_credentials:
     add: Lisää uusi suojausavain

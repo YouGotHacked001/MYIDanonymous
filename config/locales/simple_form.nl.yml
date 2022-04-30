@@ -66,7 +66,7 @@ nl:
       form_challenge:
         current_password: Je betreedt een veilige omgeving
       imports:
-        data: CSV-bestand dat op een andere Mastodonserver werd geëxporteerd
+        data: CSV-bestand dat op een andere MYIDserver werd geëxporteerd
       invite_request:
         text: Dit helpt ons om jouw aanvraag te beoordelen
       ip_block:
@@ -92,9 +92,9 @@ nl:
           name: Label
           value: Inhoud
       account_alias:
-        acct: Mastodonadres van het oude account
+        acct: MYIDadres van het oude account
       account_migration:
-        acct: Mastodonadres van het nieuwe account
+        acct: MYIDadres van het nieuwe account
       account_warning_preset:
         text: Tekst van preset
         title: Titel

@@ -48,7 +48,7 @@ sl:
       form_challenge:
         current_password: Vstopate v varovano območje
       imports:
-        data: Izvožena CSV datoteka iz drugega Mastodon vozlišča
+        data: Izvožena CSV datoteka iz drugega MYID vozlišča
       invite_request:
         text: To nam bo pomagalo pregledati vašo prijavo
       ip_block:

@@ -70,7 +70,7 @@ gl:
       form_challenge:
         current_password: Estás entrando nun área segura
       imports:
-        data: Ficheiro CSV exportado desde outro servidor Mastodon
+        data: Ficheiro CSV exportado desde outro servidor MYID
       invite_request:
         text: Esto axudaranos a revisar a tua solicitude
       ip_block:

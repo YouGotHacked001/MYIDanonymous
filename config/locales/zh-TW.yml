@@ -1,34 +1,34 @@
 ---
 zh-TW:
   about:
-    about_hashtag_html: 這些是包含「<strong>#%{hashtag}</strong>」標籤的公開文章。只要你有任何 Mastodon 站點、或者其他站點的使用者，便可以與他們互動。
-    about_mastodon_html: Mastodon （長毛象）是一個<em>自由、開放原始碼</em>的社群網站。它是一個分散式的服務，避免您的通訊被單一商業機構壟斷操控。請您選擇一家您信任的 Mastodon 站點，在上面建立帳戶，然後您就可以和任一 Mastodon 站點上的使用者互通，享受無縫的<em>社群網路</em>交流。
+    about_hashtag_html: 這些是包含「<strong>#%{hashtag}</strong>」標籤的公開文章。只要你有任何 MYID 站點、或者其他站點的使用者，便可以與他們互動。
+    about_mastodon_html: MYID （長毛象）是一個<em>自由、開放原始碼</em>的社群網站。它是一個分散式的服務，避免您的通訊被單一商業機構壟斷操控。請您選擇一家您信任的 MYID 站點，在上面建立帳戶，然後您就可以和任一 MYID 站點上的使用者互通，享受無縫的<em>社群網路</em>交流。
     about_this: 關於本站
     active_count_after: 活躍
     active_footnote: 每月活躍使用者 (MAU)
     administered_by: 管理者：
     api: API
     apps: 行動應用程式
-    apps_platforms: 在 iOS、Android 和其他平台使用 Mastodon
+    apps_platforms: 在 iOS、Android 和其他平台使用 MYID
     browse_directory: 依興趣瀏覽個人資料目錄和過濾器
     browse_local_posts: 瀏覽這台伺服器中公開嘟文的直播串流
-    browse_public_posts: 在 Mastodon 瀏覽公開嘟文的即時串流
+    browse_public_posts: 在 MYID 瀏覽公開嘟文的即時串流
     contact: 聯絡我們
     contact_missing: 未設定
     contact_unavailable: 未公開
     continue_to_web: 於網頁程式中繼續
     discover_users: 探索使用者
     documentation: 文件
-    federation_hint_html: 你只需要擁有 %{instance} 的帳戶，就可以追蹤隨便一台 Mastodon 伺服器上的人等等。
+    federation_hint_html: 你只需要擁有 %{instance} 的帳戶，就可以追蹤隨便一台 MYID 伺服器上的人等等。
     get_apps: 嘗試行動應用程式
-    hosted_on: 在 %{domain} 運作的 Mastodon 站點
+    hosted_on: 在 %{domain} 運作的 MYID 站點
     instance_actor_flash: "這個帳戶是個用來代表伺服器自已的虛擬角色，而不是實際的使用者。它是用來聯盟用的，除非您想要封鎖整個站台，不然不該封鎖它。但要封鎖整個站台，您可以使用網域封鎖功能。 \n"
     learn_more: 了解詳細
     logged_in_as_html: 您目前登入使用的帳號是 %{username}
     logout_before_registering: 您已經登入了！
     privacy_policy: 隱私權政策
     rules: 伺服器規則
-    rules_html: 以下是您若想在此 Mastodon 伺服器建立帳戶必須遵守的規則總結：
+    rules_html: 以下是您若想在此 MYID 伺服器建立帳戶必須遵守的規則總結：
     see_whats_happening: 看看發生什麼事
     server_stats: 伺服器統計：
     source_code: 原始碼
@@ -47,11 +47,11 @@ zh-TW:
       silenced_title: 靜音的伺服器
       suspended: 來自這些伺服器的資料都不會被處理、儲存或交換，也無法和這些伺服器上的使用者互動與溝通：
       suspended_title: 暫停的伺服器
-    unavailable_content_html: Mastodon 一般來說允許您閱讀並和任何聯盟伺服器上的使用者互動。這些伺服器是這個站台設下的例外。
+    unavailable_content_html: MYID 一般來說允許您閱讀並和任何聯盟伺服器上的使用者互動。這些伺服器是這個站台設下的例外。
     user_count_after:
       other: 位使用者
     user_count_before: 註冊使用者數
-    what_is_mastodon: 什麼是 Mastodon?
+    what_is_mastodon: 什麼是 MYID?
   accounts:
     choices_html: "%{name} 的選擇："
     endorsements_hint: 推薦您已經關注的人，把他們釘在您的個人頁面。
@@ -705,13 +705,13 @@ zh-TW:
         desc_html: 在個人資料頁面上顯示管理人員標誌
         title: 顯示管理人員標誌
       site_description:
-        desc_html: 首頁上的介紹文字，描述此 Mastodon 伺服器的特別之處和其他重要資訊。可使用 HTML 標籤，包括 <code>&lt;a&gt;</code> 和 <code>&lt;em&gt;</code>。
+        desc_html: 首頁上的介紹文字，描述此 MYID 伺服器的特別之處和其他重要資訊。可使用 HTML 標籤，包括 <code>&lt;a&gt;</code> 和 <code>&lt;em&gt;</code>。
         title: 伺服器描述
       site_description_extended:
         desc_html: 可放置行為準則、規定以及其他此伺服器特有的內容。可使用 HTML 標籤
         title: 本站詳細資訊
       site_short_description:
-        desc_html: 顯示在側邊欄和網頁標籤 (meta tags)。以一段話描述 Mastodon 是甚麼，以及這個伺服器的特色。
+        desc_html: 顯示在側邊欄和網頁標籤 (meta tags)。以一段話描述 MYID 是甚麼，以及這個伺服器的特色。
         title: 伺服器短描述
       site_terms:
         desc_html: 可以填寫自己的隱私權政策、使用條款或其他法律文本。可以使用 HTML 標籤
@@ -881,7 +881,7 @@ zh-TW:
     confirmation_dialogs: 確認對話框
     discovery: 探索
     localization:
-      body: Mastodon 是由志願者翻譯的。
+      body: MYID 是由志願者翻譯的。
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: 每個人都能貢獻。
     sensitive_content: 敏感內容
@@ -909,9 +909,9 @@ zh-TW:
     delete_account: 刪除帳戶
     delete_account_html: 如果你想刪除你的帳戶，請<a href="%{path}">點擊這裡繼續</a>。你需要確認你的操作。
     description:
-      prefix_invited_by_user: "@%{name} 邀請您加入這個 Mastodon 伺服器！"
-      prefix_sign_up: 現在就註冊 Mastodon 帳戶吧！
-      suffix: 有了帳戶，就可以從任何 Mastodon 伺服器關注任何人、發發廢嘟，並且與任何 Mastodon 伺服器的使用者交流，以及更多！
+      prefix_invited_by_user: "@%{name} 邀請您加入這個 MYID 伺服器！"
+      prefix_sign_up: 現在就註冊 MYID 帳戶吧！
+      suffix: 有了帳戶，就可以從任何 MYID 伺服器關注任何人、發發廢嘟，並且與任何 MYID 伺服器的使用者交流，以及更多！
     didnt_get_confirmation: 沒有收到驗證信?
     dont_have_your_security_key: 找不到您的安全金鑰？
     forgot_password: 忘記密碼？
@@ -1051,7 +1051,7 @@ zh-TW:
       content: 抱歉，我們的後台出現問題了。
       title: 這個頁面有問題
     '503': 此頁面因伺服器暫時發生錯誤而無法提供。
-    noscript_html: 使用 Mastodon 網頁版應用需要啟用 JavaScript。你也可以選擇適用於你的平台的 <a href="%{apps_path}">Mastodon 應用</a>。
+    noscript_html: 使用 MYID 網頁版應用需要啟用 JavaScript。你也可以選擇適用於你的平台的 <a href="%{apps_path}">MYID 應用</a>。
   existing_username_validator:
     not_found: 無法在本站找到這個名稱的使用者
     not_found_multiple: 揣嘸 %{usernames}
@@ -1358,7 +1358,7 @@ zh-TW:
       weibo: 新浪微博
     current_session: 目前的 session
     description: "%{platform} 上的 %{browser}"
-    explanation: 這些是現在正登入於你的 Mastodon 帳戶的瀏覽器。
+    explanation: 這些是現在正登入於你的 MYID 帳戶的瀏覽器。
     ip: IP 位址
     platforms:
       adobe_air: Adobe Air
@@ -1383,7 +1383,7 @@ zh-TW:
     aliases: 帳戶別名
     appearance: 外觀設定
     authorized_apps: 已授權應用程式
-    back: 回到 Mastodon
+    back: 回到 MYID
     delete: 刪除帳戶
     development: 開發
     edit_profile: 編輯使用者資訊
@@ -1493,7 +1493,7 @@ zh-TW:
       <ul>
         <li><em>基本帳號資訊</em>：若您在此伺服氣上註冊，您可能會被要求輸入使用者名稱、電子郵件地址與密碼。您也可能會輸入額外的個人檔案資訊，如顯示名稱或簡介等，以及上傳個人資料圖片與封面圖片。使用者名稱、顯示名稱、簡介、個人檔案名稱與封面圖片一律都會公開陳列。</li>
         <li><em>貼文、追蹤與其他資訊</em>：您追蹤的人的清單會是公開陳列的，您的追蹤者同樣如此。當您地交了一條訊息，日期與時間，以及您從哪個應用程式遞交訊息也同樣會被儲存。訊息可能會包含多媒體附件，如圖片或影片。公開或未列出的貼文都可公開使用。當您在您的個人資料上特別突顯了某篇貼文，那麼這也會是公開資訊。您的貼文會被遞送給您的追蹤者，在某些情況下，這代表了它們會被遞送到其他伺服器，並儲存在那邊。當您刪除貼文時，同樣會遞送給您的追蹤者。轉發或收藏其他貼文的動作也同樣是公開的。</li>
-        <li><em>直接與僅限追蹤者的貼文</em>：所有貼文都由伺服器儲存並處理。僅限追蹤者的貼文會被遞送給您的追蹤者，以及其中所提及的使用者，而直接貼文則僅會遞送給其中提到的使用者。在某些情況下，這代表了它們會被遞送到其他伺服器，並儲存在那邊。我們非常努力地讓這些貼文的存取僅供被授權的人使用，但其他伺服器可能沒有這樣做。因此審閱您的追蹤者屬於的伺服器也很重要。您可以在設定中切換批准與回絕新追蹤者的選項。<em>請注意，伺服器的營運者與任何接收的伺服器都可以檢視這輛的訊息</em>，且接收者可能會螢幕截圖、複製或以其他方式轉分享這類訊息。<em>所以請不要透過 Mastodon 分享任何危險的資訊。</em></li>
+        <li><em>直接與僅限追蹤者的貼文</em>：所有貼文都由伺服器儲存並處理。僅限追蹤者的貼文會被遞送給您的追蹤者，以及其中所提及的使用者，而直接貼文則僅會遞送給其中提到的使用者。在某些情況下，這代表了它們會被遞送到其他伺服器，並儲存在那邊。我們非常努力地讓這些貼文的存取僅供被授權的人使用，但其他伺服器可能沒有這樣做。因此審閱您的追蹤者屬於的伺服器也很重要。您可以在設定中切換批准與回絕新追蹤者的選項。<em>請注意，伺服器的營運者與任何接收的伺服器都可以檢視這輛的訊息</em>，且接收者可能會螢幕截圖、複製或以其他方式轉分享這類訊息。<em>所以請不要透過 MYID 分享任何危險的資訊。</em></li>
         <li><em>IP 與詮釋資料</em>：當您登入時，我們會紀錄從登入的 IP 位置，以及您瀏覽器應用程式的名稱。您可以在設定中審閱並撤銷所有已登入的工作階段。最新使用的 IP 位置會儲存長達 12 個月。我們也可能會保留伺服器紀錄檔，其中包含了每個請求存取我們的伺服器的 IP 位置。</li></ul>
 
       <hr class="spacer" />
@@ -1503,7 +1503,7 @@ zh-TW:
       <p>我們從您那裡蒐集而來的資訊都可能作為以下用途：</p>
 
       <ul>
-        <li>提供 Mastodon 的核心功能。您只能在登入後與其他人的內容互動，並張貼您自己的內容。舉例來說，您可能會追蹤其他人，以在您個人化的家時間軸中檢視各種貼文的結合。</li>
+        <li>提供 MYID 的核心功能。您只能在登入後與其他人的內容互動，並張貼您自己的內容。舉例來說，您可能會追蹤其他人，以在您個人化的家時間軸中檢視各種貼文的結合。</li>
         <li>協助社群管理，例如比較您的 IP 位置與其他已知的 IP 位置進行比較，以確定是否有逃避禁令或其他違規行為。</li>
         <li>您提供的電子郵件地址可能會用於傳送關於其他人與您的內容互動的資訊、通知或是訊息給您，以及回覆查詢，及／或其他請求或問題。</li>
       </ul>
@@ -1567,9 +1567,9 @@ zh-TW:
       <p>最初改編自 <a href="https://github.com/discourse/discourse">Discourse 隱私權政策</a>。</p>
     title: "%{instance} 使用條款和隱私權政策"
   themes:
-    contrast: Mastodon（高對比）
-    default: Mastodon（深色）
-    mastodon-light: Mastodon（亮色主題）
+    contrast: MYID（高對比）
+    default: MYID（深色）
+    mastodon-light: MYID（亮色主題）
   time:
     formats:
       default: "%Y年%-m月%d日 %H:%M"
@@ -1601,7 +1601,7 @@ zh-TW:
       subject: 您在 %{date} 提出的申訴已被回絕
       title: 申訴被回絕
     backup_ready:
-      explanation: 你要求的 Mastodon 帳戶完整備份檔案現已就緒，可供下載!
+      explanation: 你要求的 MYID 帳戶完整備份檔案現已就緒，可供下載!
       subject: 你的備份檔已可供下載
       title: 檔案匯出
     sign_in_token:
@@ -1651,11 +1651,11 @@ zh-TW:
       full_handle_hint: 你需要把這告訴你的朋友們，這樣他們就能從另一個伺服器向你發送訊息或著關注你。
       review_preferences_action: 變更偏好設定
       review_preferences_step: 記得調整你的偏好設定，比如你想接收什麼類型的電子郵件，或著你想把你的嘟文可見範圍預設設定什麼級別。如果你沒有暈車的話，考慮一下啟用「自動播放 GIF 動畫」這個選項吧。
-      subject: 歡迎來到 Mastodon
-      tip_federated_timeline: 跨站公共時間軸可以讓你一窺更廣闊的 Mastodon 網路。不過，由於它們只顯示你的鄰居們所訂閱的內容，所以並不是全部。
+      subject: 歡迎來到 MYID
+      tip_federated_timeline: 跨站公共時間軸可以讓你一窺更廣闊的 MYID 網路。不過，由於它們只顯示你的鄰居們所訂閱的內容，所以並不是全部。
       tip_following: 預設情況下，你會自動關注你所在站點的管理員。想結交更多有趣的人的話，記得多逛逛本站時間軸與跨站公共時間軸哦。
       tip_local_timeline: 本站時間軸可以讓你一窺 %{instance} 上的使用者。他們就是離你最近的鄰居！
-      tip_mobile_webapp: 如果你的行動裝置瀏覽器允許你將 Mastodon 新增到主螢幕，你就能夠接收推送訊息。它就像手機APP一樣好用!
+      tip_mobile_webapp: 如果你的行動裝置瀏覽器允許你將 MYID 新增到主螢幕，你就能夠接收推送訊息。它就像手機APP一樣好用!
       tips: 小幫手
       title: "%{name} 歡迎你的加入！"
   users:
@@ -1668,7 +1668,7 @@ zh-TW:
     signed_in_as: 目前登入的帳戶：
     suspicious_sign_in_confirmation: 您之前似乎未從此裝置登入過，再加上您也有一段時間沒有登入了，因此我們剛剛傳送了安全碼到您的電子郵件地址以確認真的是您。
   verification:
-    explanation_html: 您在 Mastodon 個人資料頁上所列出的連結，可以用此方式<strong>驗證您確實掌控該連結網頁的內容</strong>。您可以在連結的網頁上加上一個連回 Mastodon 個人資料頁的連結，該連結的原始碼 <strong>必須</strong>包含<code>rel="me"</code>屬性。連結的顯示文字可自由發揮，以下為範例：
+    explanation_html: 您在 MYID 個人資料頁上所列出的連結，可以用此方式<strong>驗證您確實掌控該連結網頁的內容</strong>。您可以在連結的網頁上加上一個連回 MYID 個人資料頁的連結，該連結的原始碼 <strong>必須</strong>包含<code>rel="me"</code>屬性。連結的顯示文字可自由發揮，以下為範例：
     verification: 驗證連結
   webauthn_credentials:
     add: 新增安全金鑰

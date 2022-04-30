@@ -70,7 +70,7 @@ hu:
       form_challenge:
         current_password: Beléptél egy biztonsági térben
       imports:
-        data: Egy másik Mastodon szerverről exportált CSV fájl
+        data: Egy másik MYID szerverről exportált CSV fájl
       invite_request:
         text: Ez segít nekünk átnézni a jelentkezésedet
       ip_block:

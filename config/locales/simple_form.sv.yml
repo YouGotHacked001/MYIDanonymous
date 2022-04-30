@@ -51,7 +51,7 @@ sv:
       form_challenge:
         current_password: Du går in i ett säkert område
       imports:
-        data: CSV-fil som exporteras från en annan Mastodon-instans
+        data: CSV-fil som exporteras från en annan MYID-instans
       invite_request:
         text: Det här kommer att hjälpa oss att granska din ansökan
       ip_block:

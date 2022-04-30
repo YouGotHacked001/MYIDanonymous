@@ -70,7 +70,7 @@ lv:
       form_challenge:
         current_password: Tu ieej drošā zonā
       imports:
-        data: CSV fails, eksportēts no cita Mastodon servera
+        data: CSV fails, eksportēts no cita MYID servera
       invite_request:
         text: Tas palīdzēs mums pārskatīt tavu lietojumprogrammu
       ip_block:

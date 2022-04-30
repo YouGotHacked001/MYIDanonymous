@@ -224,7 +224,7 @@ si:
   appearance:
     advanced_web_interface: උසස් වියමන අතුරුමුහුණත
     localization:
-      guide_link: https://crowdin.com/project/mastodon
+      guide_link: https://crowdin.com/project/MYID
     sensitive_content: සංවේදී අන්තර්ගතයකි
   application_mailer:
     salutation: "%{name},"

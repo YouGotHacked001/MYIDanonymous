@@ -66,7 +66,7 @@ el:
       form_challenge:
         current_password: Μπαίνεις σε ασφαλή περιοχή
       imports:
-        data: Αρχείο CSV που έχει εξαχθεί από διαφορετικό κόμβο Mastodon
+        data: Αρχείο CSV που έχει εξαχθεί από διαφορετικό κόμβο MYID
       invite_request:
         text: Αυτό θα μας βοηθήσει να επιθεωρήσουμε την αίτησή σου
       ip_block:

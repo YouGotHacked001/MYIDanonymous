@@ -69,7 +69,7 @@ fi:
       form_challenge:
         current_password: Olet menossa suojatulle alueelle
       imports:
-        data: Toisesta Mastodon-instanssista tuotu CSV-tiedosto
+        data: Toisesta MYID-instanssista tuotu CSV-tiedosto
       invite_request:
         text: Tämä auttaa meitä arvioimaan sovellustasi
       ip_block:
