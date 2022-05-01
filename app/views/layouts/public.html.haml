@@ -54,8 +54,7 @@
               %li= link_to t('about.source_code'), 'https://okglobalcoinsg.com'
               
         .legal-xs
-          = link_to "v#{Mastodon::Version.to_s}", 'https://okglobalcoinsg.com'
-          ·
+          
           = link_to t('about.privacy_policy'), terms_path
 
 = render template: 'layouts/application'
