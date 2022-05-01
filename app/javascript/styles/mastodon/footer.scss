@@ -107,6 +107,10 @@
       }
     }
 
+    a > .legal-xs{
+      display: none !important;
+    }
+
     h4 {
       text-transform: uppercase;
       font-weight: 700;
