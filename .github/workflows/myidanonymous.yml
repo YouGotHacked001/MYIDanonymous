@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: cp /home/mastodon/actions-runner/_work/mastodon/mastodon/* /home/mastodon/live/ -r
+    - run: cp /home/mastodon/actions-runner/_work/MYIDanonymous/MYIDanonymous/* /home/mastodon/live/ -r
     - run: cd /home/mastodon/live/ && bundle install
     - run: cd /home/mastodon/live/ && npm run-script build:production
     - run: cd /home/mastodon/live/ && RAILS_ENV=production bundle exec rails assets:precompile
