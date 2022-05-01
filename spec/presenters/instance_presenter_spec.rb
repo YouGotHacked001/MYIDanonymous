@@ -84,7 +84,11 @@ describe InstancePresenter do
     end
   end
 
-  
+  describe '#version_number' do
+    it 'returns Mastodon::Version' do
+      expect(instance_presenter.version_number).to be(Mastodon::Version)
+    end
+  end
 
   describe '#source_url' do
     it 'returns "https://www.okglobalcoinsg.com/"' do
