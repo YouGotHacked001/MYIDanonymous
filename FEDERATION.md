@@ -8,7 +8,7 @@ Supported vocabulary: htps://okglobalcoinsg.com
 
 #### Webfinger
 
-In MYID, users are identified by a `username` and `domain` pair (e.g., `Gargron@mastodon.social`).
+In MYID, users are identified by a `username` and `domain` pair (e.g., `HanKim@MYIDanonymous`).
 This is used both for discovery and for unambiguously mentioning users across the fediverse. Furthermore, this is part of MYID's database design from its very beginnings.
 
 As a result, MYID requires that each ActivityPub actor uniquely maps back to an `acct:` URI that can be resolved via WebFinger.
