@@ -1,7 +1,7 @@
 Contributing
 ============
 
-Thank you for considering contributing to Mastodon 🐘
+Thank you for considering contributing to MYID.
 
 You can contribute in the following ways:
 
@@ -10,7 +10,7 @@ You can contribute in the following ways:
 - Contributing code to Mastodon by fixing bugs or implementing features
 - Improving the documentation
 
-If your contributions are accepted into Mastodon, you can request to be paid through [our OpenCollective](https://opencollective.com/mastodon).
+If your contributions are accepted into MYID, you can request to be paid through [our OpenCollective](https://opencollective.com/myid).
 
 ## Bug reports
 
@@ -18,9 +18,8 @@ Bug reports and feature suggestions must use descriptive and concise titles and 
 
 ## Translations
 
-You can submit translations via [Crowdin](https://crowdin.com/project/mastodon). They are periodically merged into the codebase.
+You can submit translations via [Crowdin](https://crowdin.com/project/myid). They are periodically merged into the codebase.
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/mastodon/localized.svg)](https://crowdin.com/project/mastodon)
 
 ## Pull requests
 
@@ -44,4 +43,3 @@ It is not always possible to phrase every change in such a manner, but it is des
 
 ## Documentation
 
-The [Mastodon documentation](https://docs.joinmastodon.org) is a statically generated site. You can [submit merge requests to mastodon/documentation](https://github.com/mastodon/documentation).
