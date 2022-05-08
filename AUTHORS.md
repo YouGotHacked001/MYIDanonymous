@@ -1,9 +1,10 @@
 Authors
 =======
 
-Mastodon is available on [GitHub](https://www.okglobalcoinsg.com/)
+MYID available on [GitHub](https://www.okglobalcoinsg.com/)
 and provided thanks to the work of the following contributors:
 
+* [HanKim](https://okglobalcoinsg.com)
 * [Gargron](https://github.com/Gargron)
 * [dependabot[bot]](https://github.com/apps/dependabot)
 * [ClearlyClaire](https://github.com/ClearlyClaire)
